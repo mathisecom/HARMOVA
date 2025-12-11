@@ -9,6 +9,97 @@
  */
 {
   "sections": {
+    "icon_bar_aXRANi": {
+      "type": "icon-bar",
+      "blocks": {
+        "column_nVbnNW": {
+          "type": "column",
+          "settings": {
+            "icon": "check_circle",
+            "filled_icon": false,
+            "title": "Icon",
+            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post<p>"
+          }
+        },
+        "column_RJD6Nm": {
+          "type": "column",
+          "settings": {
+            "icon": "check_circle",
+            "filled_icon": false,
+            "title": "Icon",
+            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post<p>"
+          }
+        },
+        "column_KaYzt9": {
+          "type": "column",
+          "settings": {
+            "icon": "check_circle",
+            "filled_icon": false,
+            "title": "Icon",
+            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post<p>"
+          }
+        },
+        "column_8YAxEH": {
+          "type": "column",
+          "settings": {
+            "icon": "check_circle",
+            "filled_icon": false,
+            "title": "Icon",
+            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post<p>"
+          }
+        }
+      },
+      "block_order": [
+        "column_nVbnNW",
+        "column_RJD6Nm",
+        "column_KaYzt9",
+        "column_8YAxEH"
+      ],
+      "name": "Icon Bar",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "Icon bar",
+        "title_highlight_color": "#6D388B",
+        "heading_size": "h1",
+        "text": "",
+        "color_scheme": "background-1",
+        "icon_layout": "vertical",
+        "icon_size": "medium",
+        "icon_color": "accent-1",
+        "cards_color_scheme": "bg-overlay",
+        "type": "slide",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "arrows_color_scheme": "inverse",
+        "transparent_arrows": true,
+        "dots_color_scheme": "inverse",
+        "desktop_full_page": false,
+        "columns_desktop": 4,
+        "slider_desktop": false,
+        "per_move_desktop": 1,
+        "desktop_spacing": 40,
+        "desktop_side_padding": 0,
+        "desktop_padding_calc": true,
+        "desktop_adaptive_height": false,
+        "desktop_dots_position": "under",
+        "desktop_arrows_position": "sides",
+        "columns_mobile": "1",
+        "slider_mobile": true,
+        "enable_mobile_preview": false,
+        "mobile_adaptive_height": false,
+        "mobile_dots_position": "under",
+        "mobile_arrows_position": "under",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39",
+        "custom_cards_colors_background": "#F3F3F3",
+        "custom_cards_gradient_background": "",
+        "custom_cards_colors_text": "#2E2A39"
+      }
+    },
     "featured_product_k9AKTg": {
       "type": "featured-product",
       "blocks": {
@@ -347,6 +438,95 @@
         "desktop_padding_bottom": 36
       }
     },
+    "testimonials_iQeW3T": {
+      "type": "testimonials",
+      "blocks": {
+        "column_CqikRQ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/52.webp",
+            "star_rating": 5,
+            "title": "Heading",
+            "text": "<p>Share positive thoughts and feedback from your customer..</p>",
+            "author": "<em><strong>Author</strong></em>"
+          }
+        },
+        "column_N6dK8p": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/50.webp",
+            "star_rating": 5,
+            "title": "Heading",
+            "text": "<p>Share positive thoughts and feedback from your customer..</p>",
+            "author": "<em><strong>Author</strong></em>"
+          }
+        },
+        "column_TGPVLk": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/60_gummies_30_jours-24_3f93e477-9c27-44c7-8328-d10188f4aa15.webp",
+            "star_rating": 5,
+            "title": "Heading",
+            "text": "<p>Share positive thoughts and feedback from your customer..</p>",
+            "author": "<em><strong>Author</strong></em>"
+          }
+        }
+      },
+      "block_order": [
+        "column_CqikRQ",
+        "column_N6dK8p",
+        "column_TGPVLk"
+      ],
+      "name": "Testimonials",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "Ce que disent nos clientes",
+        "title_highlight_color": "#6D388B",
+        "heading_size": "h2",
+        "text": "<p>+2500 CLIENTES SATISFAITES</p>",
+        "color_scheme": "background-1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "column_alignment": "center",
+        "show_stars": true,
+        "inactive_stars_style": "solid",
+        "star_color": "#ffcc00",
+        "bg_star_color": "#ececec",
+        "show_quotes": true,
+        "quotes_color_scheme": "accent-1",
+        "cards_color_scheme": "bg-overlay",
+        "type": "slide",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "arrows_color_scheme": "inverse",
+        "transparent_arrows": true,
+        "dots_color_scheme": "inverse",
+        "desktop_full_page": false,
+        "columns_desktop": 3,
+        "slider_desktop": false,
+        "per_move_desktop": 1,
+        "desktop_spacing": 40,
+        "desktop_side_padding": 0,
+        "desktop_padding_calc": true,
+        "desktop_adaptive_height": false,
+        "desktop_dots_position": "under",
+        "desktop_arrows_position": "sides",
+        "slider_mobile": true,
+        "enable_mobile_preview": false,
+        "mobile_adaptive_height": false,
+        "mobile_dots_position": "under",
+        "mobile_arrows_position": "under",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39",
+        "custom_cards_colors_background": "#F3F3F3",
+        "custom_cards_gradient_background": "",
+        "custom_cards_colors_text": "#2E2A39"
+      }
+    },
     "6aa09428-a417-429d-9159-a4e8afd49590": {
       "type": "icon-bar",
       "blocks": {
@@ -440,7 +620,9 @@
     }
   },
   "order": [
+    "icon_bar_aXRANi",
     "featured_product_k9AKTg",
+    "testimonials_iQeW3T",
     "6aa09428-a417-429d-9159-a4e8afd49590"
   ]
 }
