@@ -40,7 +40,7 @@
             "heading": "Inscrivez-vous à notre liste",
             "subtext": "<p>Join our email list for exclusive offers and the latest news.</p>",
             "button_type": "solid",
-            "button_label": "Sign up",
+            "button_label": "Je m'inscris !",
             "button_style_secondary": false,
             "width_desktop": 4,
             "width_mobile": "2"
