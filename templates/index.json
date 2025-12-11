@@ -115,6 +115,7 @@
         },
         "price_RqENL4": {
           "type": "price",
+          "disabled": true,
           "settings": {
             "layout": "price_first",
             "price_color": "accent-1",
@@ -132,6 +133,7 @@
         },
         "variant_picker_b8HAtr": {
           "type": "variant_picker",
+          "disabled": true,
           "settings": {
             "picker_types": "pills, pills, pills",
             "custom_labels": "",
@@ -169,6 +171,7 @@
         },
         "quantity_selector_kqARYJ": {
           "type": "quantity_selector",
+          "disabled": true,
           "settings": {
             "full_width_classic": false,
             "atc_append": "none",
@@ -265,8 +268,8 @@
             "icon_scale": 120,
             "icon_spacing": 10,
             "display_price": false,
-            "enable_custom_color": false,
-            "custom_color": "#dd1d1d",
+            "enable_custom_color": true,
+            "custom_color": "#f96e91",
             "enable_secondary_btn": false,
             "secondary_btn_label": "Buy It Now",
             "secondary_btn_enable_custom_color": false,
