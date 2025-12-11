@@ -516,7 +516,7 @@
         "desktop_alignment": "center",
         "mobile_alignment": "center",
         "color_scheme": "background-1",
-        "layout": "table_first",
+        "layout": "table_second",
         "style": "classic",
         "corner_radius": 8,
         "number_of_competitors": 1,
