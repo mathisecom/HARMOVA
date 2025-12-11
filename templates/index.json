@@ -60,7 +60,7 @@
         "display_id": false,
         "visibility": "always-display",
         "title": "Icon bar",
-        "title_highlight_color": "#6D388B",
+        "title_highlight_color": "#6d388b",
         "heading_size": "h1",
         "text": "",
         "color_scheme": "background-1",
@@ -92,12 +92,12 @@
         "mobile_arrows_position": "under",
         "padding_top": 36,
         "padding_bottom": 36,
-        "custom_colors_background": "#FFFFFF",
+        "custom_colors_background": "#ffffff",
         "custom_gradient_background": "",
-        "custom_colors_text": "#2E2A39",
-        "custom_cards_colors_background": "#F3F3F3",
+        "custom_colors_text": "#2e2a39",
+        "custom_cards_colors_background": "#f3f3f3",
         "custom_cards_gradient_background": "",
-        "custom_cards_colors_text": "#2E2A39"
+        "custom_cards_colors_text": "#2e2a39"
       }
     },
     "featured_product_k9AKTg": {
@@ -504,7 +504,7 @@
         "display_id": false,
         "visibility": "always-display",
         "title": "Adieu vaginoses, odeurs et inconfort !",
-        "title_highlight_color": "#6D388B",
+        "title_highlight_color": "#6d388b",
         "heading_size": "h1",
         "text": "<p>Après tant d’essais infructueux, Harmova rétablit <strong>naturellement votre équilibre</strong>, sans traitements agressifs.</p>",
         "button_label": "",
@@ -542,7 +542,7 @@
         "checkmark_bg_color": "#f96e91",
         "x_style": "regular",
         "x_color": "#121212",
-        "x_bg_color": "#DBDBDB",
+        "x_bg_color": "#dbdbdb",
         "opposite_icon_colors": "original",
         "highlighted_color_scheme": "accent-1",
         "highlighted_separator_opacity": 0,
@@ -553,16 +553,16 @@
         "minimalistic_border_opacity": 16,
         "padding_top": 36,
         "padding_bottom": 36,
-        "custom_colors_background": "#FFFFFF",
+        "custom_colors_background": "#ffffff",
         "custom_gradient_background": "",
-        "custom_colors_text": "#2E2A39",
+        "custom_colors_text": "#2e2a39",
         "custom_colors_solid_button_background": "#dd1d1d",
         "custom_colors_solid_button_text": "#ffffff",
         "custom_colors_outline_button": "#dd1d1d",
-        "custom_colors_highlighted_background": "#2E2A39",
-        "custom_colors_highlighted_text": "#FFFFFF",
-        "custom_colors_others_background": "#FFFFFF",
-        "custom_colors_others_text": "#2E2A39"
+        "custom_colors_highlighted_background": "#2e2a39",
+        "custom_colors_highlighted_text": "#ffffff",
+        "custom_colors_others_background": "#ffffff",
+        "custom_colors_others_text": "#2e2a39"
       }
     },
     "testimonials_iQeW3T": {
@@ -574,7 +574,7 @@
             "image": "shopify://shop_images/52.webp",
             "star_rating": 5,
             "title": "Heading",
-            "text": "<p>Share positive thoughts and feedback from your customer..</p>",
+            "text": "<p>J'ai souvent été gênée par mon odeur, mais depuis que j'utilise ça, j'ai remarqué une nette amélioration. J'ai repris confiance et je me sens vraiment plus \"fraîche\".. Foncez !! </p>",
             "author": "<em><strong>Author</strong></em>"
           }
         },
@@ -584,7 +584,7 @@
             "image": "shopify://shop_images/50.webp",
             "star_rating": 5,
             "title": "Heading",
-            "text": "<p>Share positive thoughts and feedback from your customer..</p>",
+            "text": "<p>J'ai eu des vaginoses pendant des années et j'ai tout testé... Après 1 mois avec ces gummies, je ne me suis jamais sentie aussi bien que maintenant, j'ai vraiment l'impression d'avoir trouvé une VRAIE solution</p>",
             "author": "<em><strong>Author</strong></em>"
           }
         },
@@ -594,7 +594,7 @@
             "image": "shopify://shop_images/60_gummies_30_jours-24_3f93e477-9c27-44c7-8328-d10188f4aa15.webp",
             "star_rating": 5,
             "title": "Heading",
-            "text": "<p>Share positive thoughts and feedback from your customer..</p>",
+            "text": "<p>Depuis que j'ai commencé à utiliser ça, ma sècheresse vaginale a disparu et j'ai jamais été à l'aise avec mon chéri qui kiff l'odeur ! J'avais l'habitude d'éviter les relations et bien ça c'est terminé</p>",
             "author": "<em><strong>Author</strong></em>"
           }
         }
@@ -609,7 +609,7 @@
         "display_id": false,
         "visibility": "always-display",
         "title": "Ce que disent nos clientes",
-        "title_highlight_color": "#6D388B",
+        "title_highlight_color": "#6d388b",
         "heading_size": "h2",
         "text": "<p>+2500 CLIENTES SATISFAITES</p>",
         "color_scheme": "background-1",
@@ -646,12 +646,12 @@
         "mobile_arrows_position": "under",
         "padding_top": 36,
         "padding_bottom": 36,
-        "custom_colors_background": "#FFFFFF",
+        "custom_colors_background": "#ffffff",
         "custom_gradient_background": "",
-        "custom_colors_text": "#2E2A39",
-        "custom_cards_colors_background": "#F3F3F3",
+        "custom_colors_text": "#2e2a39",
+        "custom_cards_colors_background": "#f3f3f3",
         "custom_cards_gradient_background": "",
-        "custom_cards_colors_text": "#2E2A39"
+        "custom_cards_colors_text": "#2e2a39"
       }
     },
     "6aa09428-a417-429d-9159-a4e8afd49590": {
