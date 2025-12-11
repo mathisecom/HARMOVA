@@ -278,7 +278,7 @@
         "collapsible_tab_gCDb4Y": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Ingrédients naturels",
             "heading_size": "medium",
             "icon": "",
             "filled_icon": false,
@@ -294,7 +294,7 @@
         "collapsible_tab_4wD9iB": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Est-ce adapté pour moi ?",
             "heading_size": "medium",
             "icon": "",
             "filled_icon": false,
@@ -310,7 +310,7 @@
         "collapsible_tab_WTkyqw": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Nos certifications",
             "heading_size": "medium",
             "icon": "",
             "filled_icon": false,
@@ -326,7 +326,7 @@
         "collapsible_tab_HW83Lr": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Comment les utiliser ?",
             "heading_size": "medium",
             "icon": "",
             "filled_icon": false,
@@ -342,7 +342,7 @@
         "collapsible_tab_p8FAwi": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Livraison & Garantie",
             "heading_size": "medium",
             "icon": "",
             "filled_icon": false,
