@@ -1225,6 +1225,16 @@
             "row_content": "<p>Si vous êtes enceinte ou allaitez, il est crucial de<strong> consulter votre médecin</strong> avant de prendre tout supplément. </p><p>Même si nos ingrédients sont 100 % naturels et sûrs, votre médecin pourra vous donner des conseils personnalisés pour garantir votre sécurité et celle de votre bébé.</p>",
             "page": ""
           }
+        },
+        "collapsible_row_3TcU84": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Les gummies contiennent-ils du sucre ? Sont-ils adaptés aux personnes diabétiques ?",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "<p>Nos gummies  contiennent <strong>0 gramme de sucre</strong>, ce qui les rend parfaitement adaptés aux personnes diabétiques ou à celles qui cherchent à réduire leur consommation de sucre. </p><p>Vous pouvez les consommer en toute confiance, sans craindre d’impacter votre glycémie.</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -1236,7 +1246,8 @@
         "collapsible_row_8zjDnj",
         "collapsible_row_qxDghj",
         "collapsible_row_aN8tFg",
-        "collapsible_row_HFUz6Q"
+        "collapsible_row_HFUz6Q",
+        "collapsible_row_3TcU84"
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
