@@ -61,9 +61,9 @@
         "mobile_padding_bottom": 12,
         "desktop_padding_top": 16,
         "desktop_padding_bottom": 16,
-        "custom_colors_background": "#FFFFFF",
+        "custom_colors_background": "#ffffff",
         "custom_gradient_background": "",
-        "custom_colors_text": "#2E2A39"
+        "custom_colors_text": "#2e2a39"
       }
     },
     "main": {
@@ -374,11 +374,11 @@
             "autoplay_speed": 5,
             "display_arrows": true,
             "display_dots": true,
-            "author_1": "<em>Author</em> [stars]",
+            "author_1": "<em>Flavie R.</em> [stars]",
             "text_1": "<p>J'ai souvent été gênée par mon odeur, mais depuis que j'utilise ça, j'ai remarqué une nette amélioration. J'ai repris confiance et je me sens vraiment plus \"fraîche\".. Foncez !! </p>",
-            "author_2": "<em>Author</em> [stars]",
+            "author_2": "<em>Silène V.</em> [stars]",
             "text_2": "<p>J'ai eu des vaginoses pendant des années et j'ai tout testé... Après 1 mois avec ces gummies, je ne me suis jamais sentie aussi bien que maintenant, j'ai vraiment l'impression d'avoir trouvé une VRAIE solution</p>",
-            "author_3": "<em>Author</em> [stars]",
+            "author_3": "<em>Leslie L.</em> [stars]",
             "text_3": "<p>Depuis que j'ai commencé à utiliser ça, ma secheresse vaginale a disparu et j'ai jamais été à l'aise avec mon chéri qui kiff l'odeur ! J'avais l'habitude d'éviter les relations et bien ça c'est terminé</p>",
             "margin_top": 24,
             "margin_bottom": 24
@@ -498,7 +498,7 @@
         "display_id": false,
         "visibility": "always-display",
         "title": "Best seller #Tiktok",
-        "title_highlight_color": "#6D388B",
+        "title_highlight_color": "#6d388b",
         "heading_size": "h1",
         "button_label": "",
         "button_link": "",
@@ -548,16 +548,16 @@
         "mobile_arrows_position": "under",
         "padding_top": 36,
         "padding_bottom": 36,
-        "custom_colors_background": "#FFFFFF",
+        "custom_colors_background": "#ffffff",
         "custom_gradient_background": "",
-        "custom_colors_text": "#2E2A39",
+        "custom_colors_text": "#2e2a39",
         "custom_colors_solid_button_background": "#dd1d1d",
         "custom_colors_solid_button_text": "#ffffff",
         "custom_colors_outline_button": "#dd1d1d",
-        "custom_cards_colors_background": "#F3F3F3",
+        "custom_cards_colors_background": "#f3f3f3",
         "custom_cards_gradient_background": "",
         "custom_cards_colors_heading": "#222126",
-        "custom_cards_colors_text": "#2E2A39"
+        "custom_cards_colors_text": "#2e2a39"
       }
     },
     "related-products": {
@@ -848,9 +848,9 @@
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 0,
-        "custom_colors_background": "#FFFFFF",
+        "custom_colors_background": "#ffffff",
         "custom_gradient_background": "",
-        "custom_colors_text": "#2E2A39",
+        "custom_colors_text": "#2e2a39",
         "custom_colors_solid_button_background": "#dd1d1d",
         "custom_colors_solid_button_text": "#ffffff",
         "custom_colors_outline_button": "#dd1d1d"
@@ -903,7 +903,7 @@
         "display_id": false,
         "visibility": "always-display",
         "title": "",
-        "title_highlight_color": "#6D388B",
+        "title_highlight_color": "#6d388b",
         "heading_size": "h2",
         "button_label": "",
         "button_link": "",
@@ -953,16 +953,16 @@
         "mobile_arrows_position": "under",
         "padding_top": 36,
         "padding_bottom": 36,
-        "custom_colors_background": "#FFFFFF",
+        "custom_colors_background": "#ffffff",
         "custom_gradient_background": "",
-        "custom_colors_text": "#2E2A39",
+        "custom_colors_text": "#2e2a39",
         "custom_colors_solid_button_background": "#dd1d1d",
         "custom_colors_solid_button_text": "#ffffff",
         "custom_colors_outline_button": "#dd1d1d",
-        "custom_cards_colors_background": "#F3F3F3",
+        "custom_cards_colors_background": "#f3f3f3",
         "custom_cards_gradient_background": "",
         "custom_cards_colors_heading": "#222126",
-        "custom_cards_colors_text": "#2E2A39"
+        "custom_cards_colors_text": "#2e2a39"
       }
     },
     "results_w9gbRp": {
@@ -1000,7 +1000,7 @@
         "display_id": false,
         "visibility": "always-display",
         "title": "",
-        "title_highlight_color": "#6D388B",
+        "title_highlight_color": "#6d388b",
         "heading_size": "h1",
         "text": "",
         "image": "shopify://shop_images/115.webp",
@@ -1008,7 +1008,7 @@
         "color_scheme": "custom",
         "layout": "results_second",
         "results_headline": "Les chiffres parlent d'eux-mêmes",
-        "results_title_highlight_color": "#6D388B",
+        "results_title_highlight_color": "#6d388b",
         "results_headline_size": "h1",
         "results_text": "",
         "results_headline_alignment": "left",
@@ -1023,7 +1023,7 @@
         "padding_bottom": 36,
         "custom_colors_background": "#fff5f7",
         "custom_gradient_background": "",
-        "custom_colors_text": "#2E2A39",
+        "custom_colors_text": "#2e2a39",
         "custom_colors_accent": "#f96e91",
         "custom_colors_solid_button_background": "#dd1d1d",
         "custom_colors_solid_button_text": "#ffffff",
@@ -1174,7 +1174,7 @@
         "visibility": "always-display",
         "caption": "Vos questions fréquentes",
         "title": "FAQ",
-        "title_highlight_color": "#6D388B",
+        "title_highlight_color": "#6d388b",
         "heading_size": "h0",
         "heading_alignment": "center",
         "layout": "section",
@@ -1189,12 +1189,12 @@
         "display_top_border": true,
         "padding_top": 36,
         "padding_bottom": 36,
-        "custom_colors_background": "#FFFFFF",
+        "custom_colors_background": "#ffffff",
         "custom_gradient_background": "",
-        "custom_colors_text": "#2E2A39",
+        "custom_colors_text": "#2e2a39",
         "custom_contaner_colors_background": "#fff5f7",
         "custom_container_gradient_background": "",
-        "custom_contaner_colors_text": "#2E2A39"
+        "custom_contaner_colors_text": "#2e2a39"
       }
     },
     "b321ab88-2b59-4dba-bade-54885c874ca5": {
