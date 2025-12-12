@@ -416,7 +416,7 @@
           "image_HmEQBn": {
             "type": "image",
             "settings": {
-              "position": "body",
+              "position": "footer",
               "image": "shopify://shop_images/Harmova_produit.webp",
               "width": 100,
               "alignment": "center",
