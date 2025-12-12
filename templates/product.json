@@ -277,7 +277,23 @@
         "de158e68-5d0d-4819-a625-e2dabdff87d1": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Ingrédients naturels",
+            "heading_size": "medium",
+            "icon": "",
+            "filled_icon": false,
+            "collapse_icon": "carret",
+            "display_top_border": true,
+            "open": false,
+            "content": "",
+            "page": "",
+            "margin_top": 24,
+            "margin_bottom": 0
+          }
+        },
+        "collapsible_tab_aAeDmV": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Est-ce adapté pour moi ?",
             "heading_size": "medium",
             "icon": "",
             "filled_icon": false,
@@ -293,7 +309,7 @@
         "collapsible_tab_QbRzVp": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Nos certifications",
             "heading_size": "medium",
             "icon": "",
             "filled_icon": false,
@@ -309,7 +325,7 @@
         "collapsible_tab_cLCEM7": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Comment les utiliser ?",
             "heading_size": "medium",
             "icon": "",
             "filled_icon": false,
@@ -325,7 +341,7 @@
         "collapsible_tab_EKdxWF": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Livraison & Garantie",
             "heading_size": "medium",
             "icon": "",
             "filled_icon": false,
@@ -377,6 +393,7 @@
         "buy_buttons",
         "e7a28cbe-03cb-4c9d-a2c4-0e3e76ffb3e5",
         "de158e68-5d0d-4819-a625-e2dabdff87d1",
+        "collapsible_tab_aAeDmV",
         "collapsible_tab_QbRzVp",
         "collapsible_tab_cLCEM7",
         "collapsible_tab_EKdxWF",
