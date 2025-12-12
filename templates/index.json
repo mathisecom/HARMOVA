@@ -22,13 +22,65 @@
         "image_height": "medium",
         "url": "",
         "desktop_content_position": "middle-center",
-        "show_text_box": true,
+        "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "background-1",
         "transparent_container_color": "white",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
+      }
+    },
+    "rich_text_KFHXMK": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_CC4Wtq": {
+          "type": "heading",
+          "settings": {
+            "title": "Combien de solutions avez-vous essayé ?",
+            "title_highlight_color": "#6D388B",
+            "heading_size": "h1"
+          }
+        },
+        "text_QCYmH9": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Testez-en une qui fonctionne vraiment grâce aux <strong>probiotiques et à l’ananas</strong> !</p><p>Utilisé depuis des siècles pour ses bienfaits, l’ananas favorise une <strong>fraîcheur naturelle</strong>, tandis que les probiotiques restaurent l’équilibre intime.</p><p><strong>C’est prouvé par la science et validé par des milliers de femmes.</strong>🌸</p>"
+          }
+        },
+        "button_XRzcBX": {
+          "type": "button",
+          "settings": {
+            "button_label": "Je veux ma cure !",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_CC4Wtq",
+        "text_QCYmH9",
+        "button_XRzcBX"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "full_width": true,
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d"
       }
     },
     "icon_bar_aXRANi": {
@@ -805,6 +857,7 @@
   },
   "order": [
     "image_banner_aNHhmG",
+    "rich_text_KFHXMK",
     "icon_bar_aXRANi",
     "featured_product_k9AKTg",
     "comparison_table_jUY7wd",
