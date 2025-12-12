@@ -413,8 +413,21 @@
               "margin_bottom": 15
             }
           },
+          "image_HmEQBn": {
+            "type": "image",
+            "settings": {
+              "position": "body",
+              "image": "shopify://shop_images/Harmova_produit.webp",
+              "width": 100,
+              "alignment": "center",
+              "border_radius": 0,
+              "margin_top": 15,
+              "margin_bottom": 15
+            }
+          },
           "68fdc0a0-cd7c-40b9-97b3-a76eb7917a47": {
             "type": "payment_badges",
+            "disabled": true,
             "settings": {
               "enabled_payment_types": "",
               "margin_top": 12,
@@ -430,6 +443,7 @@
           "631b0e34-4299-400e-9f4d-c107c08cce01",
           "4f3e2a5f-006d-40ed-8370-49b15e0e427d",
           "0935e47c-9604-4faa-b47a-d61ca49c0c16",
+          "image_HmEQBn",
           "68fdc0a0-cd7c-40b9-97b3-a76eb7917a47"
         ],
         "settings": {
