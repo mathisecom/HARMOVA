@@ -149,7 +149,7 @@
         "type": "slide",
         "autoplay": false,
         "autoplay_speed": 5,
-        "arrows_color_scheme": "accent-2",
+        "arrows_color_scheme": "accent-1",
         "transparent_arrows": true,
         "dots_color_scheme": "inverse",
         "desktop_full_page": false,
