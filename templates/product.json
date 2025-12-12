@@ -1142,7 +1142,7 @@
             "heading": "Quand vais-je avoir des résultats ?",
             "icon": "",
             "filled_icon": false,
-            "row_content": "",
+            "row_content": "<p>La majorité des femmes ressentent une différence significative dès les<strong> 7 premiers jours d’utilisation quotidienne</strong>. </p><p>Pour des résultats optimaux, prenez deux gummies par jour avec de l’eau afin de profiter d’une fraîcheur et d’un confort durables.</p>",
             "page": ""
           }
         },
@@ -1152,7 +1152,7 @@
             "heading": "Qu'est-ce qui rend ces gummies différents ?",
             "icon": "",
             "filled_icon": false,
-            "row_content": "",
+            "row_content": "<p>Nos gummies se démarquent en associant un extrait d'ananas naturel à des probiotiques cliniquement prouvés, <strong>offrant ainsi un soin complet pour votre santé intime</strong>.</p><p>En plus de prévenir et de protéger, nos gummies agissent rapidement, avec des résultats visibles dès 7 jours. Et, cerise sur le gâteau, <strong>leur goût est irrésistible</strong> !</p>",
             "page": ""
           }
         },
@@ -1162,7 +1162,7 @@
             "heading": "Puis-je prendre ces gummies avec d'autres suppléments ?",
             "icon": "",
             "filled_icon": false,
-            "row_content": "",
+            "row_content": "<p>Oui, nos gummies peuvent être pris en toute sécurité avec vos vitamines et autres suppléments quotidiens.</p>",
             "page": ""
           }
         },
@@ -1172,7 +1172,37 @@
             "heading": "À quelle fréquence dois-je prendre les gummies ?",
             "icon": "",
             "filled_icon": false,
-            "row_content": "",
+            "row_content": "<p>Prenez <strong>2 gummies par jour</strong>, de préférence pendant un repas pour une absorption optimale.</p><p><strong>Durée recommandée :</strong><br/>👉 <strong>1 mois</strong> pour renforcer et rééquilibrer naturellement votre flore vaginale.<br/>👉 <strong>3 mois</strong> en cas de mycoses, vaginoses ou déséquilibres récurrents.<br/>👉 En <strong>entretien</strong> : 1 à 2 fois par an, ou en <strong>cure continue</strong> selon vos besoins.</p><p>Des résultats visibles <strong>dès les 7 premiers jours</strong> avec une prise régulière.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_HkNP6M": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Les gummies sont-ils naturels et sains pour ma santé ?",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "<p>Oui, notre formule est <strong>entièrement naturelle, végan et sans additifs artificiels.</strong> Chaque ingrédient est rigoureusement sélectionné et testé pour garantir une utilisation quotidienne sans risque. </p><p>La souche probiotique que nous utilisons, Bacillus Coagulans, est <strong>cliniquement prouvée comme étant sûre et efficace </strong>pour un usage prolongé.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_8zjDnj": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Puis-je les utiliser si je n'ai pas de problèmes d'odeurs ?",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "<p>Oui ! Les gummies Equilibre Intime peuvent être utilisés pour maintenir <strong>la fraîcheur et la santé vaginale</strong>, même si vous ne souffrez pas actuellement d'odeurs ou de déséquilibres.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_qxDghj": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Sont-ils végétaliens et sans gluten ?",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "<p>Oui, tout à fait ! Nos gummies sont <strong>végétaliens, sans gluten, sans OGM et halal</strong>, ils sont donc parfaits pour une variété de préférences alimentaires !</p>",
             "page": ""
           }
         }
@@ -1181,7 +1211,10 @@
         "collapsible_row_weihXi",
         "collapsible_row_raTdfW",
         "collapsible_row_6LcgX9",
-        "collapsible_row_dEgmEA"
+        "collapsible_row_dEgmEA",
+        "collapsible_row_HkNP6M",
+        "collapsible_row_8zjDnj",
+        "collapsible_row_qxDghj"
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
