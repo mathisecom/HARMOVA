@@ -274,37 +274,6 @@
             "mobile_transparent_bg": false
           }
         },
-        "reviews_8UgFbe": {
-          "type": "reviews",
-          "disabled": true,
-          "settings": {
-            "color_scheme": "background-1",
-            "show_custom_bg": false,
-            "custom_bg_color": "#f2f2f2",
-            "corner_radius": 12,
-            "border_width": 0,
-            "border_color": "#b7b7b7",
-            "avatar_alignment": "top",
-            "avatar_corner_radius": 40,
-            "star_color": "#ffcc00",
-            "stars_translate": 0,
-            "checkmark_color": "#6d388b",
-            "checkmark_icon_color": "#ffffff",
-            "slider_type": "slide",
-            "autoplay": false,
-            "autoplay_speed": 5,
-            "display_arrows": false,
-            "display_dots": true,
-            "author_1": "<em>Author</em> [stars]",
-            "text_1": "<p>Share positive thoughts and feedback from your customer.</p>",
-            "author_2": "<em>Author</em> [stars]",
-            "text_2": "<p>Share positive thoughts and feedback from your customer.</p>",
-            "author_3": "<em>Author</em> [stars]",
-            "text_3": "<p>Share positive thoughts and feedback from your customer.</p>",
-            "margin_top": 24,
-            "margin_bottom": 24
-          }
-        },
         "de158e68-5d0d-4819-a625-e2dabdff87d1": {
           "type": "collapsible_tab",
           "settings": {
@@ -368,6 +337,36 @@
             "margin_top": 24,
             "margin_bottom": 0
           }
+        },
+        "reviews_8UgFbe": {
+          "type": "reviews",
+          "settings": {
+            "color_scheme": "background-1",
+            "show_custom_bg": false,
+            "custom_bg_color": "#f2f2f2",
+            "corner_radius": 12,
+            "border_width": 0,
+            "border_color": "#b7b7b7",
+            "avatar_alignment": "top",
+            "avatar_corner_radius": 40,
+            "star_color": "#ffcc00",
+            "stars_translate": 0,
+            "checkmark_color": "#6d388b",
+            "checkmark_icon_color": "#ffffff",
+            "slider_type": "slide",
+            "autoplay": false,
+            "autoplay_speed": 5,
+            "display_arrows": true,
+            "display_dots": true,
+            "author_1": "<em>Author</em> [stars]",
+            "text_1": "<p>J'ai souvent été gênée par mon odeur, mais depuis que j'utilise ça, j'ai remarqué une nette amélioration. J'ai repris confiance et je me sens vraiment plus \"fraîche\".. Foncez !! </p>",
+            "author_2": "<em>Author</em> [stars]",
+            "text_2": "<p>J'ai eu des vaginoses pendant des années et j'ai tout testé... Après 1 mois avec ces gummies, je ne me suis jamais sentie aussi bien que maintenant, j'ai vraiment l'impression d'avoir trouvé une VRAIE solution</p>",
+            "author_3": "<em>Author</em> [stars]",
+            "text_3": "<p>Depuis que j'ai commencé à utiliser ça, ma secheresse vaginale a disparu et j'ai jamais été à l'aise avec mon chéri qui kiff l'odeur ! J'avais l'habitude d'éviter les relations et bien ça c'est terminé</p>",
+            "margin_top": 24,
+            "margin_bottom": 24
+          }
         }
       },
       "block_order": [
@@ -377,11 +376,11 @@
         "04ba004e-2f54-4936-8b1c-8bcadf6573f6",
         "buy_buttons",
         "e7a28cbe-03cb-4c9d-a2c4-0e3e76ffb3e5",
-        "reviews_8UgFbe",
         "de158e68-5d0d-4819-a625-e2dabdff87d1",
         "collapsible_tab_QbRzVp",
         "collapsible_tab_cLCEM7",
-        "collapsible_tab_EKdxWF"
+        "collapsible_tab_EKdxWF",
+        "reviews_8UgFbe"
       ],
       "custom_css": [],
       "settings": {
@@ -842,7 +841,7 @@
         "visibility": "always-display",
         "title": "Ce que disent nos clientes",
         "title_highlight_color": "#6d388b",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "text": "<p>+2500 CLIENTES SATISFAITES</p>",
         "color_scheme": "background-1",
         "image_width": "full",
