@@ -94,10 +94,89 @@
         "custom_container_gradient_background": "",
         "custom_contaner_colors_text": "#2e2a39"
       }
+    },
+    "collapsible_content_3zHQQd": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_iHyWP3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Quand vais-je recevoir mes gummies ?",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_WGr8C9": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Et si mon colis met du temps à arriver ?",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_z8qXik": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Comment puis-je suivre ma commande ?",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_qXYfEn": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Et si je ne suis pas satisfaite ou si j'ai changé d'avis ?",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_iHyWP3",
+        "collapsible_row_WGr8C9",
+        "collapsible_row_z8qXik",
+        "collapsible_row_qXYfEn"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "caption": "",
+        "title": "Les gummies <em><strong>Harmova</strong></em><strong> </strong>",
+        "title_highlight_color": "#2e2a39",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "video_muted_autoplay": true,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "row_heading_size": "medium",
+        "collapse_icon": "carret",
+        "display_top_border": true,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2e2a39",
+        "custom_contaner_colors_background": "#ffffff",
+        "custom_container_gradient_background": "",
+        "custom_contaner_colors_text": "#2e2a39"
+      }
     }
   },
   "order": [
     "main",
-    "9c121ec4-42cd-4c8e-82a2-935e073db7d7"
+    "9c121ec4-42cd-4c8e-82a2-935e073db7d7",
+    "collapsible_content_3zHQQd"
   ]
 }
