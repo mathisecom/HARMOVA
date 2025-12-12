@@ -1172,13 +1172,79 @@
             "row_content": "",
             "page": ""
           }
+        },
+        "collapsible_row_7L6nQP": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Les gummies sont-ils naturels et sains pour ma santé ?",
+            "icon": "check_box",
+            "filled_icon": false,
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_JLXhWj": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Puis-je les utiliser si je n'ai pas de problèmes d'odeurs ?",
+            "icon": "check_box",
+            "filled_icon": false,
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_AKBegq": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Sont-ils végétaliens et sans gluten ?",
+            "icon": "check_box",
+            "filled_icon": false,
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_pPhxzB": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Il y'a t'il des effets secondaires ?",
+            "icon": "check_box",
+            "filled_icon": false,
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_7YjbnM": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Est-ce adaptée aux femmes enceintes ou allaitantes ?",
+            "icon": "check_box",
+            "filled_icon": false,
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_UmtrKt": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Les gummies contiennent-ils du sucre ? Sont-ils adaptés aux personnes diabétiques ?",
+            "icon": "check_box",
+            "filled_icon": false,
+            "row_content": "",
+            "page": ""
+          }
         }
       },
       "block_order": [
         "collapsible_row_weihXi",
         "collapsible_row_raTdfW",
         "collapsible_row_6LcgX9",
-        "collapsible_row_dEgmEA"
+        "collapsible_row_dEgmEA",
+        "collapsible_row_7L6nQP",
+        "collapsible_row_JLXhWj",
+        "collapsible_row_AKBegq",
+        "collapsible_row_pPhxzB",
+        "collapsible_row_7YjbnM",
+        "collapsible_row_UmtrKt"
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
