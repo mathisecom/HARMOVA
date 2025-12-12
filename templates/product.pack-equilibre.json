@@ -774,6 +774,7 @@
           "settings": {
             "icon": "check_circle",
             "filled_icon": false,
+            "image": "shopify://shop_images/Reproductive-Health-Icon_1.avif",
             "title": "Restaure l'équilibre naturel",
             "text": "<p>Grâce à des <strong>probiotiques puissants</strong>, ces gummies rétablissent naturellement le pH vaginal, éliminant ainsi les bactéries responsables des vaginoses, cystites et autres infections.</p>"
           }
@@ -783,6 +784,7 @@
           "settings": {
             "icon": "check_circle",
             "filled_icon": false,
+            "image": "shopify://shop_images/Healthy-Ovulation-Icon_1.avif",
             "title": "Fraicheur & confiance",
             "text": "<p>Avec<strong> l’extrait d’ananas</strong>, ces gummies combattent<strong> les mauvaises odeurs </strong>et vous procurent un parfum frais et fruité toute la journée. </p>"
           }
@@ -792,6 +794,7 @@
           "settings": {
             "icon": "check_circle",
             "filled_icon": false,
+            "image": "shopify://shop_images/Cycle-Regularity-Icon_1_1.avif",
             "title": "Soulage les inconforts intimes",
             "text": "<p>Ils soulagent la sécheresse, les démangeaisons et les inconforts tout en boostant la<strong> lubrification naturelle</strong>, pour que vous soyez sereine lors de vos moments intimes.</p>"
           }
