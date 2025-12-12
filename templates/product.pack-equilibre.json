@@ -1177,7 +1177,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Les gummies sont-ils naturels et sains pour ma santé ?",
-            "icon": "check_box",
+            "icon": "",
             "filled_icon": false,
             "row_content": "",
             "page": ""
@@ -1187,7 +1187,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Puis-je les utiliser si je n'ai pas de problèmes d'odeurs ?",
-            "icon": "check_box",
+            "icon": "",
             "filled_icon": false,
             "row_content": "",
             "page": ""
@@ -1197,7 +1197,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Sont-ils végétaliens et sans gluten ?",
-            "icon": "check_box",
+            "icon": "",
             "filled_icon": false,
             "row_content": "",
             "page": ""
@@ -1207,7 +1207,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Il y'a t'il des effets secondaires ?",
-            "icon": "check_box",
+            "icon": "",
             "filled_icon": false,
             "row_content": "",
             "page": ""
@@ -1217,7 +1217,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Est-ce adaptée aux femmes enceintes ou allaitantes ?",
-            "icon": "check_box",
+            "icon": "",
             "filled_icon": false,
             "row_content": "",
             "page": ""
@@ -1227,7 +1227,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Les gummies contiennent-ils du sucre ? Sont-ils adaptés aux personnes diabétiques ?",
-            "icon": "check_box",
+            "icon": "",
             "filled_icon": false,
             "row_content": "",
             "page": ""
