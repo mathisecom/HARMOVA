@@ -864,8 +864,8 @@
           "settings": {
             "image": "shopify://shop_images/Bacillus_coagulans_visualization.webp",
             "muted_autoplay": true,
-            "title": "Column",
-            "text": "<p>Pair text with an image/video to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "title": "Bacillus Coagulans",
+            "text": "<p>Ce probiotique est le seul qui survit jusqu'au vagin, où il rééquilibre le pH, élimine les mauvaises bactéries, et restaure l’équilibre naturel de la flore vaginale.</p>",
             "link_label": "",
             "link": ""
           }
@@ -875,8 +875,8 @@
           "settings": {
             "image": "shopify://shop_images/u3545688894_Create_a_vibrant_visualization_of_a_pineapple_Use_2b511932-d6ce-4a8d-aab6-f19b6e14d0fa_2_1.webp",
             "muted_autoplay": true,
-            "title": "Column",
-            "text": "<p>Pair text with an image/video to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "title": "Extrait d'Ananas biologique",
+            "text": "<p>Riche en vitamines et enzymes naturelles, Il neutralise naturellement les odeurs indésirables et maintient un pH idéal.</p>",
             "link_label": "",
             "link": ""
           }
@@ -886,8 +886,8 @@
           "settings": {
             "image": "shopify://shop_images/Vitamin-C_visualization.webp",
             "muted_autoplay": true,
-            "title": "Column",
-            "text": "<p>Pair text with an image/video to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "title": "Vitamine C",
+            "text": "<p>Essentielle pour la santé intime, elle renforce les tissus vaginaux, stimule la lubrification naturelle et rend les activités quotidiennes plus confortables.</p>",
             "link_label": "",
             "link": ""
           }
