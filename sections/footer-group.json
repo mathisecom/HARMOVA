@@ -38,7 +38,7 @@
           "type": "email_signup",
           "settings": {
             "heading": "Inscrivez-vous à notre liste",
-            "subtext": "<p>Join our email list for exclusive offers and the latest news.</p>",
+            "subtext": "<p>Recevez toutes nos offres et actualités en avant-première.</p>",
             "button_type": "solid",
             "button_label": "Je m'inscris !",
             "button_style_secondary": false,
