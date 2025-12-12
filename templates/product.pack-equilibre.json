@@ -853,6 +853,7 @@
         "heading_bFFDg4",
         "text_f9PLQd"
       ],
+      "disabled": true,
       "name": "t:sections.rich-text.presets.name",
       "settings": {
         "display_id": false,
@@ -913,6 +914,7 @@
         "column_CxQ8ac",
         "column_aBDpLD"
       ],
+      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "display_id": false,
