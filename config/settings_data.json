@@ -275,6 +275,7 @@
         "blocks": {
           "6269cf6e-8e24-4068-8e2a-35bb4addad4e": {
             "type": "countdown_timer",
+            "disabled": true,
             "settings": {
               "timer_text": "<strong>Cart reserved for [timer]</strong>",
               "timer_duration": 300,
@@ -366,11 +367,10 @@
           },
           "631b0e34-4299-400e-9f4d-c107c08cce01": {
             "type": "discount_field",
-            "disabled": true,
             "settings": {
               "bottom_separator": true,
-              "placeholder": "Enter discount code",
-              "btn_label": "ADD",
+              "placeholder": "CODE PROMO",
+              "btn_label": "AJOUTER",
               "error_msg": "Please enter a discount code!",
               "margin_top": 15,
               "margin_bottom": 15
@@ -388,8 +388,8 @@
               "savings_position": "above",
               "savings_spacing": 10,
               "display_subtotal": true,
-              "subtotal_left_text": "<strong>Subtotal</strong>",
-              "subtotal_right_text": "<strong>[subtotal]</strong>",
+              "subtotal_left_text": "Total",
+              "subtotal_right_text": "[subtotal]",
               "subtotal_alignment": "spaced",
               "subtotal_text_color": "text",
               "subtotal_text_size": 20,
@@ -405,8 +405,8 @@
             "settings": {
               "show_additional_checkout_buttons": false,
               "display_price": false,
-              "enable_custom_color": false,
-              "custom_color": "#dd1d1d",
+              "enable_custom_color": true,
+              "custom_color": "#f96e91",
               "icon_scale": 120,
               "icon_spacing": 10,
               "margin_top": 15,
@@ -434,7 +434,7 @@
         ],
         "settings": {
           "test_mode": false,
-          "heading_text": "Cart • [count] items",
+          "heading_text": "Votre Panier",
           "heading_alignment": "flex-start",
           "desktop_width": "normal",
           "mobile_width": "full",
