@@ -1205,6 +1205,16 @@
             "row_content": "<p>Oui, tout à fait ! Nos gummies sont <strong>végétaliens, sans gluten, sans OGM et halal</strong>, ils sont donc parfaits pour une variété de préférences alimentaires !</p>",
             "page": ""
           }
+        },
+        "collapsible_row_aN8tFg": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Il y'a t'il des effets secondaires ?",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "<p>Nos gummies Équilibre Intime sont formulés pour fonctionner naturellement avec le microbiome de votre corps. </p><p>Contrairement aux traitements agressifs ou aux antibiotiques qui peuvent perturber votre flore vaginale, notre souche probiotique résistante à la chaleur colonise en douceur et rétablit l'équilibre.</p><p>Vous ne ressentirez pas les effets secondaires typiques des autres produits vaginaux, comme des brûlures, des irritations ou une sécheresse accrue. </p><p><strong>Quelques points clés que les femmes devraient connaître :</strong></p><ul><li>Aucune perturbation du pH naturel : notre probiotique produit l’acide L-lactique, identique à celui de vos bonnes bactéries.</li><li>Pas d'infections à levures : contrairement à d’autres traitements, nos gummies ne provoquent pas de candidoses.</li><li>Pas de problèmes digestifs : notre souche est douce pour l’estomac et ne crée aucune gêne.</li><li>100 % naturel : sans produits chimiques ni ingrédients artificiels.</li></ul><p>Ainsi, vous pouvez utiliser nos gummies en toute confiance, sans craindre les effets secondaires habituels des autres produits vaginaux.</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -1214,7 +1224,8 @@
         "collapsible_row_dEgmEA",
         "collapsible_row_HkNP6M",
         "collapsible_row_8zjDnj",
-        "collapsible_row_qxDghj"
+        "collapsible_row_qxDghj",
+        "collapsible_row_aN8tFg"
       ],
       "name": "t:sections.collapsible_content.presets.name",
       "settings": {
