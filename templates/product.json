@@ -1118,6 +1118,85 @@
         "custom_cards_colors_text": "#2e2a39"
       }
     },
+    "collapsible_content_4zLnpC": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_weihXi": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Quand vais-je avoir des résultats ?",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_raTdfW": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Qu'est-ce qui rend ces gummies différents ?",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_6LcgX9": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Puis-je prendre ces gummies avec d'autres suppléments ?",
+            "icon": "check_box",
+            "filled_icon": false,
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_dEgmEA": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_box",
+            "filled_icon": false,
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_weihXi",
+        "collapsible_row_raTdfW",
+        "collapsible_row_6LcgX9",
+        "collapsible_row_dEgmEA"
+      ],
+      "name": "t:sections.collapsible_content.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "caption": "Vos questions fréquentes",
+        "title": "FAQ",
+        "title_highlight_color": "#6D388B",
+        "heading_size": "h0",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "video_muted_autoplay": true,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "row_heading_size": "medium",
+        "collapse_icon": "carret",
+        "display_top_border": true,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39",
+        "custom_contaner_colors_background": "#FFFFFF",
+        "custom_container_gradient_background": "",
+        "custom_contaner_colors_text": "#2E2A39"
+      }
+    },
     "b321ab88-2b59-4dba-bade-54885c874ca5": {
       "type": "section-divider",
       "settings": {
@@ -1145,6 +1224,7 @@
     "multicolumn_nGAYhm",
     "results_w9gbRp",
     "55bd100e-3bbd-426c-a5cf-eed7b2a3706f",
+    "collapsible_content_4zLnpC",
     "b321ab88-2b59-4dba-bade-54885c874ca5"
   ]
 }
