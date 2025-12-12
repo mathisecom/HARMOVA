@@ -72,13 +72,13 @@
         "desktop_content_position": "center",
         "content_alignment": "center",
         "full_width": true,
-        "color_scheme": "background-1",
+        "color_scheme": "custom",
         "padding_top": 40,
         "padding_bottom": 52,
         "custom_colors_background": "#ffffff",
         "custom_gradient_background": "",
         "custom_colors_text": "#2e2a39",
-        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_background": "#f96e91",
         "custom_colors_solid_button_text": "#ffffff",
         "custom_colors_outline_button": "#dd1d1d"
       }
@@ -93,7 +93,7 @@
             "filled_icon": false,
             "image": "shopify://shop_images/image1.webp",
             "title": "Dosage ultra efficace",
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p><p></p>"
+            "text": "<p>La plus haute concentration de <strong>probiotiques cliniquement prouvés</strong> dans chaque gummies. </p>"
           }
         },
         "column_RJD6Nm": {
@@ -103,7 +103,7 @@
             "filled_icon": false,
             "image": "shopify://shop_images/image2.webp",
             "title": "Résout le problème à la source",
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p><p></p>"
+            "text": "<p><strong>Rééquilibre naturellement votre pH</strong> pour prévenir les infections au lieu de les camoufler.</p>"
           }
         },
         "column_KaYzt9": {
@@ -113,7 +113,7 @@
             "filled_icon": false,
             "image": "shopify://shop_images/image3.webp",
             "title": "Formule délicieuse",
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p><p></p>"
+            "text": "<p><strong>Fini les traitements compliqués</strong>. Nos gummies au délicieux goût d'ananas simplifient votre routine de santé intime.</p>"
           }
         },
         "column_8YAxEH": {
@@ -123,7 +123,7 @@
             "filled_icon": false,
             "image": "shopify://shop_images/image4.webp",
             "title": "100% naturel et sans sucre",
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p><p></p>"
+            "text": "<p>Fonctionne en parfaite <strong>harmonie avec votre flore intime</strong>, sans les effets secondaires des antibiotiques.</p>"
           }
         }
       },
