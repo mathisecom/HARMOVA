@@ -816,6 +816,220 @@
         "custom_colors_outline_button": "#dd1d1d"
       }
     },
+    "rich_text_WFQicg": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_bFFDg4": {
+          "type": "heading",
+          "settings": {
+            "title": "<strong>La </strong><em><strong>puissance du naturelle</strong></em><strong> pour votre équilibre intime.</strong>",
+            "title_highlight_color": "#121212",
+            "heading_size": "h1"
+          }
+        },
+        "text_f9PLQd": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>3 ingrédients ciblés </strong>qui rétablissent l'équilibre intime.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_bFFDg4",
+        "text_f9PLQd"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "full_width": true,
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 0,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d"
+      }
+    },
+    "multicolumn_nGAYhm": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_3cxW8p": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Bacillus_coagulans_visualization.webp",
+            "muted_autoplay": true,
+            "title": "Column",
+            "text": "<p>Pair text with an image/video to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_CxQ8ac": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/u3545688894_Create_a_vibrant_visualization_of_a_pineapple_Use_2b511932-d6ce-4a8d-aab6-f19b6e14d0fa_2_1.webp",
+            "muted_autoplay": true,
+            "title": "Column",
+            "text": "<p>Pair text with an image/video to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_aBDpLD": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Vitamin-C_visualization.webp",
+            "muted_autoplay": true,
+            "title": "Column",
+            "text": "<p>Pair text with an image/video to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_3cxW8p",
+        "column_CxQ8ac",
+        "column_aBDpLD"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "",
+        "title_highlight_color": "#6D388B",
+        "heading_size": "h2",
+        "button_label": "",
+        "button_link": "",
+        "atc_button_label": "",
+        "atc_product": "",
+        "atc_skip_cart": false,
+        "color_scheme": "background-1",
+        "cards_color_scheme": "bg-overlay",
+        "cards_corner_radius": 20,
+        "stretch_cards": false,
+        "stretched_cards_content_alignment": "center",
+        "image_width": "full",
+        "image_ratio": "circle",
+        "media_position": "top",
+        "column_alignment": "center",
+        "desktop_heading_size": 24,
+        "mobile_heading_size": 22,
+        "desktop_text_size": 16,
+        "mobile_text_size": 15,
+        "desktop_text_top_margin": 10,
+        "mobile_text_top_margin": 10,
+        "desktop_container_padding_y": 24,
+        "desktop_container_padding_x": 24,
+        "mobile_container_padding_y": 24,
+        "mobile_container_padding_x": 24,
+        "type": "slide",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "arrows_color_scheme": "inverse",
+        "transparent_arrows": true,
+        "dots_color_scheme": "inverse",
+        "desktop_full_page": false,
+        "columns_desktop": 3,
+        "slider_desktop": false,
+        "per_move_desktop": 1,
+        "desktop_spacing": 40,
+        "desktop_side_padding": 0,
+        "desktop_padding_calc": true,
+        "desktop_adaptive_height": false,
+        "desktop_dots_position": "hidden",
+        "desktop_arrows_position": "sides",
+        "columns_mobile": "1",
+        "slider_mobile": true,
+        "enable_mobile_preview": false,
+        "mobile_adaptive_height": false,
+        "mobile_dots_position": "hidden",
+        "mobile_arrows_position": "under",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d",
+        "custom_cards_colors_background": "#F3F3F3",
+        "custom_cards_gradient_background": "",
+        "custom_cards_colors_heading": "#222126",
+        "custom_cards_colors_text": "#2E2A39"
+      }
+    },
+    "results_w9gbRp": {
+      "type": "results",
+      "blocks": {
+        "row_WG9yGd": {
+          "type": "row",
+          "settings": {
+            "percentage": 90,
+            "row_text": "<p>Noticed that this product has significantly improved their life.</p>"
+          }
+        },
+        "row_3BLFwe": {
+          "type": "row",
+          "settings": {
+            "percentage": 90,
+            "row_text": "<p>Noticed that this product has significantly improved their life.</p>"
+          }
+        },
+        "row_Hwwd43": {
+          "type": "row",
+          "settings": {
+            "percentage": 90,
+            "row_text": "<p>Noticed that this product has significantly improved their life.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "row_WG9yGd",
+        "row_3BLFwe",
+        "row_Hwwd43"
+      ],
+      "name": "Results",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "",
+        "title_highlight_color": "#6D388B",
+        "heading_size": "h1",
+        "text": "",
+        "image": "shopify://shop_images/115.webp",
+        "video_muted_autoplay": true,
+        "color_scheme": "custom",
+        "layout": "results_second",
+        "results_headline": "Les chiffres parlent d'eux-mêmes",
+        "results_title_highlight_color": "#6D388B",
+        "results_headline_size": "h1",
+        "results_text": "",
+        "results_headline_alignment": "left",
+        "caption": "<p><em>Basé sur plus de 2500 avis clients </em><em><strong>vérifiés.</strong></em></p>",
+        "button_label": "",
+        "link": "",
+        "button_style_secondary": false,
+        "atc_button_label": "",
+        "atc_product": "",
+        "atc_skip_cart": false,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#fff5f7",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39",
+        "custom_colors_accent": "#f96e91",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d"
+      }
+    },
     "55bd100e-3bbd-426c-a5cf-eed7b2a3706f": {
       "type": "testimonials",
       "blocks": {
@@ -927,6 +1141,9 @@
     "related-products",
     "8beb6911-28c6-482c-976a-e5421ad3e8df",
     "4fc05ee5-1c30-4863-b88f-81cb6fa7c41a",
+    "rich_text_WFQicg",
+    "multicolumn_nGAYhm",
+    "results_w9gbRp",
     "55bd100e-3bbd-426c-a5cf-eed7b2a3706f",
     "b321ab88-2b59-4dba-bade-54885c874ca5"
   ]
