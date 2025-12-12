@@ -94,6 +94,14 @@
             "margin_bottom": 15
           }
         },
+        "emoji_benefits_pnmh69": {
+          "type": "emoji_benefits",
+          "settings": {
+            "benefits": "<p><em><strong>Moins d'infections, plus de confiance, une vie intime libérée :</strong></em> Des milliers de femmes ressentent la différence dès 7 jours.<br/></p><p><strong>🍍 Une odeur fraîche & irrésistible </strong></p><p>🌸<strong> Lutte contre les infections à répétition</strong></p><p><strong>🍑 Confort intime et lubrification naturelle</strong></p><p>💟 <strong>100% naturel, vegan et sans sucre</strong></p>",
+            "margin_top": 15,
+            "margin_bottom": 15
+          }
+        },
         "5fcc0428-e768-4cb7-bea3-eb0274198dd1": {
           "type": "variant_picker",
           "disabled": true,
@@ -391,6 +399,7 @@
       "block_order": [
         "title",
         "trustpilot_stars_efgnjh",
+        "emoji_benefits_pnmh69",
         "5fcc0428-e768-4cb7-bea3-eb0274198dd1",
         "04ba004e-2f54-4936-8b1c-8bcadf6573f6",
         "buy_buttons",
