@@ -1,0 +1,1242 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "horizontal_ticker_DkYANt": {
+      "type": "horizontal-ticker",
+      "blocks": {
+        "text_7Qyzhg": {
+          "type": "text",
+          "settings": {
+            "title": "Ingrédients 100% naturels"
+          }
+        },
+        "text_hf3Ayh": {
+          "type": "text",
+          "settings": {
+            "title": "Satisfaction garantie : Ou remboursée"
+          }
+        },
+        "text_yRMJtw": {
+          "type": "text",
+          "settings": {
+            "title": "Livraison gratuite"
+          }
+        }
+      },
+      "block_order": [
+        "text_7Qyzhg",
+        "text_hf3Ayh",
+        "text_yRMJtw"
+      ],
+      "name": "Horizontal Ticker",
+      "settings": {
+        "visibility": "always-display",
+        "speed": 2,
+        "direction": "normal",
+        "stop_on_hover": false,
+        "mobile_spacing": 60,
+        "desktop_spacing": 100,
+        "color_scheme": "accent-1",
+        "mobile_text_size": 16,
+        "desktop_text_size": 18,
+        "italic_text": true,
+        "uppercase_text": true,
+        "bold_text": true,
+        "mobile_image_height": 26,
+        "desktop_image_height": 40,
+        "mobile_reviews_width": 300,
+        "desktop_reviews_width": 400,
+        "hidden_products": "",
+        "enable_specific_display": false,
+        "displayed_products": "",
+        "mobile_padding_top": 12,
+        "mobile_padding_bottom": 12,
+        "desktop_padding_top": 16,
+        "desktop_padding_bottom": 16,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2e2a39"
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "text_size": "h2",
+            "title_alignment": "left",
+            "uppercase_title": false,
+            "margin_top": 0,
+            "margin_bottom": 0
+          }
+        },
+        "trustpilot_stars_efgnjh": {
+          "type": "trustpilot_stars",
+          "settings": {
+            "rating": 5,
+            "star_color": "#00b67a",
+            "bg_star_color": "#c8c8c8",
+            "star_symbol_color": "#ffffff",
+            "label": " 4.79/5 (+2500 avis)",
+            "size": 13,
+            "alignment": "flex-start",
+            "scroll_id": "",
+            "margin_top": 15,
+            "margin_bottom": 15
+          }
+        },
+        "emoji_benefits_pnmh69": {
+          "type": "emoji_benefits",
+          "settings": {
+            "benefits": "<p><em><strong>Moins d'infections, plus de confiance, une vie intime libérée :</strong></em> Des milliers de femmes ressentent la différence dès 7 jours.<br/></p><p><strong>🍍 Une odeur fraîche & irrésistible </strong></p><p>🌸<strong> Lutte contre les infections à répétition</strong></p><p><strong>🍑 Confort intime et lubrification naturelle</strong></p><p>💟 <strong>100% naturel, vegan et sans sucre</strong></p>",
+            "margin_top": 15,
+            "margin_bottom": 15
+          }
+        },
+        "5fcc0428-e768-4cb7-bea3-eb0274198dd1": {
+          "type": "variant_picker",
+          "disabled": true,
+          "settings": {
+            "picker_types": "pills, dropdown, dropdown",
+            "custom_labels": "[name] - [selected]",
+            "skip_unavailable": false,
+            "swatches_size": "medium",
+            "swatches_custom_colors": "disabled",
+            "swatches_custom_colors_list": "#000000, #6D388B, #0000FF, #FFCC00",
+            "full_width_dropdowns": false,
+            "breaks_style": "normal",
+            "breaks_headline": "BUNDLE & SAVE",
+            "breaks_display_selected_indicator": true,
+            "breaks_border_radius": 10,
+            "breaks_border_width": 2,
+            "breaks_color_scheme": "accent-1",
+            "breaks_badges": "[empty], Most popular, [empty]",
+            "breaks_badge_style": "1",
+            "breaks_badge_color": "accent-1",
+            "breaks_displayed_images": "variant_images",
+            "breaks_custom_images": "",
+            "breaks_image_width": 70,
+            "breaks_space_images": true,
+            "breaks_vertical_images_position": "top",
+            "breaks_vertical_prices_layout": "vertical",
+            "breaks_labels": "[name], [name], [name]",
+            "breaks_benefits": "[empty], Free Shipping, Free Shipping",
+            "breaks_benefit_position": "top",
+            "breaks_benefit_style": "outlined",
+            "breaks_benefit_color": "accent-1",
+            "breaks_captions": "Variant 1 caption, Variant 2 caption, Variant 3 caption",
+            "breaks_price_texts": "[price], [price], [price]",
+            "breaks_compare_price_texts": "[compare_price], [compare_price], [compare_price]",
+            "margin_top": 15,
+            "margin_bottom": 15
+          }
+        },
+        "04ba004e-2f54-4936-8b1c-8bcadf6573f6": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {
+            "full_width_classic": false,
+            "atc_append": "none",
+            "atc_append_heights": "stretch-quantity",
+            "enable_quantity_discounts": false,
+            "style": "normal",
+            "headline": "BUNDLE & SAVE",
+            "preselected": "option_1",
+            "display_selected_indicator": true,
+            "border_radius": 10,
+            "border_width": 2,
+            "color_scheme": "accent-1",
+            "enable_variant_selectors": true,
+            "enable_variant_selectors_on_quantity_of_1": false,
+            "update_prices": false,
+            "skip_unavailable": false,
+            "full_width_pickers": false,
+            "hide_pickers_overlay": true,
+            "pickers_label": "",
+            "image_width": 70,
+            "space_images": true,
+            "vertical_images_position": "top",
+            "vertical_prices_layout": "vertical",
+            "option_1_quantity": 1,
+            "option_1_badge": "",
+            "option_1_badge_style": "1",
+            "option_1_badge_color": "accent-1",
+            "option_1_label": "Buy [quantity]",
+            "option_1_benefit": "",
+            "option_1_benefit_position": "top",
+            "option_1_benefit_style": "outlined",
+            "option_1_benefit_color": "accent-1",
+            "option_1_caption": "You save [amount_saved]",
+            "option_1_percentage_off_text": "0",
+            "option_1_fixed_amount_off": "0",
+            "option_1_price_text": "[price]",
+            "option_1_compare_price": "compare_price",
+            "option_1_compare_price_text": "[compare_price]",
+            "option_2_quantity": 2,
+            "option_2_badge": "",
+            "option_2_badge_style": "1",
+            "option_2_badge_color": "accent-1",
+            "option_2_label": "Buy [quantity]",
+            "option_2_benefit": "",
+            "option_2_benefit_position": "top",
+            "option_2_benefit_style": "outlined",
+            "option_2_benefit_color": "accent-1",
+            "option_2_caption": "You save [amount_saved]",
+            "option_2_percentage_off_text": "0",
+            "option_2_fixed_amount_off": "0",
+            "option_2_price_text": "[price]",
+            "option_2_compare_price": "compare_price",
+            "option_2_compare_price_text": "[compare_price]",
+            "option_3_quantity": 3,
+            "option_3_badge": "",
+            "option_3_badge_style": "1",
+            "option_3_badge_color": "accent-1",
+            "option_3_label": "Buy [quantity]",
+            "option_3_benefit": "",
+            "option_3_benefit_position": "top",
+            "option_3_benefit_style": "outlined",
+            "option_3_benefit_color": "accent-1",
+            "option_3_caption": "You save [amount_saved]",
+            "option_3_percentage_off_text": "0",
+            "option_3_fixed_amount_off": "0",
+            "option_3_price_text": "[price]",
+            "option_3_compare_price": "compare_price",
+            "option_3_compare_price_text": "[compare_price]",
+            "option_4_quantity": 4,
+            "option_4_badge": "",
+            "option_4_badge_style": "1",
+            "option_4_badge_color": "accent-1",
+            "option_4_label": "Buy [quantity]",
+            "option_4_benefit": "",
+            "option_4_benefit_position": "top",
+            "option_4_benefit_style": "outlined",
+            "option_4_benefit_color": "accent-1",
+            "option_4_caption": "You save [amount_saved]",
+            "option_4_percentage_off_text": "0",
+            "option_4_fixed_amount_off": "0",
+            "option_4_price_text": "[price]",
+            "option_4_compare_price": "compare_price",
+            "option_4_compare_price_text": "[compare_price]",
+            "margin_top": 15,
+            "margin_bottom": 15
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "skip_cart": false,
+            "uppercase_text": true,
+            "icon_scale": 120,
+            "icon_spacing": 10,
+            "display_price": false,
+            "enable_custom_color": true,
+            "custom_color": "#f96e91",
+            "enable_secondary_btn": false,
+            "secondary_btn_label": "Buy It Now",
+            "secondary_btn_enable_custom_color": false,
+            "secondary_btn_custom_color": "#f96e91",
+            "margin_top": 24,
+            "margin_bottom": 24
+          }
+        },
+        "e7a28cbe-03cb-4c9d-a2c4-0e3e76ffb3e5": {
+          "type": "sticky_atc",
+          "disabled": true,
+          "settings": {
+            "function": "add_to_cart",
+            "display_when": "after_scroll",
+            "button_label": "Add to cart",
+            "enable_custom_btn_color": false,
+            "custom_btn_color": "#dd1d1d",
+            "color_scheme": "background-1",
+            "star_color": "#ffcc00",
+            "stars_label": "(xxxx Reviews)",
+            "picker_type": "combined",
+            "desktop_show_image": true,
+            "desktop_show_title": true,
+            "desktop_rating_stars": false,
+            "desktop_show_price": true,
+            "desktop_show_sale_badge": true,
+            "desktop_variant_picker": true,
+            "desktop_full_button_width": false,
+            "desktop_show_price_in_button": false,
+            "desktop_transparent_bg": false,
+            "mobile_show_image": false,
+            "mobile_show_title": true,
+            "mobile_rating_stars": false,
+            "mobile_show_price": true,
+            "mobile_show_sale_badge": false,
+            "mobile_variant_picker": false,
+            "mobile_full_button_width": false,
+            "mobile_show_price_in_button": false,
+            "mobile_transparent_bg": false
+          }
+        },
+        "de158e68-5d0d-4819-a625-e2dabdff87d1": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Ingrédients naturels",
+            "heading_size": "medium",
+            "icon": "",
+            "filled_icon": false,
+            "collapse_icon": "carret",
+            "display_top_border": true,
+            "open": false,
+            "content": "<p><strong>TriFlora Balance™</strong> est le complexe exclusif d’Harmova qui associe trois actifs clés pour restaurer l’équilibre intime :</p><ul><li><strong>Bacillus coagulans SNZ1969™</strong> – Souche probiotique brevetée qui atteint la flore vaginale, rééquilibre le pH et réduit les bactéries indésirables.</li></ul><p></p><ul><li><strong>Extrait d’ananas (bromélaïne)</strong> – Apaise, neutralise les odeurs et maintient une fraîcheur durable.</li></ul><p></p><ul><li><strong>Vitamine C</strong> – Renforce l’immunité locale, protège les tissus et stimule la lubrification naturelle.</li></ul><p><strong>Pour en savoir plus sur notre formulation, </strong><a href=\"/pages/science\" title=\"La science\"><em><strong>cliquez ici</strong></em></a></p>",
+            "page": "",
+            "margin_top": 24,
+            "margin_bottom": 0
+          }
+        },
+        "collapsible_tab_aAeDmV": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Est-ce adapté pour moi ?",
+            "heading_size": "medium",
+            "icon": "",
+            "filled_icon": false,
+            "collapse_icon": "carret",
+            "display_top_border": true,
+            "open": false,
+            "content": "<p><strong>Si vous ressentez l’une des situations suivantes, alors oui, ces gummies sont faits pour vous :</strong></p><ul><li>Vous avez des <strong>cystites ou des infections</strong> <strong>vaginales</strong> fréquentes (mycoses et/ou vaginoses bactériennes)</li></ul><p></p><ul><li>Vous êtes gênée par des <strong>mauvaises odeurs</strong>.</li></ul><p></p><ul><li>Vous avez des <strong>rapports intimes réguliers.</strong></li></ul><p></p><ul><li>Vous souhaitez <strong>simplement prendre soin</strong> de votre flore vaginale.</li></ul><p></p><ul><li>Vous souffrez de <strong>démangeaisons ou de douleurs</strong> pendant ou après les rapports.</li></ul><p></p><ul><li>Vous avez des problèmes de peau, comme de <strong>l'acné hormonale</strong>.</li></ul><p></p><ul><li>Vous ressentez des gênes vaginales, comme <strong>des sécheresses, irritations</strong> ou des pics de douleurs.</li></ul><p></p><ul><li>Vous avez des <strong>pertes anormales</strong> ou colorées.</li></ul>",
+            "page": "",
+            "margin_top": 24,
+            "margin_bottom": 0
+          }
+        },
+        "collapsible_tab_QbRzVp": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Nos certifications",
+            "heading_size": "medium",
+            "icon": "",
+            "filled_icon": false,
+            "collapse_icon": "carret",
+            "display_top_border": true,
+            "open": false,
+            "content": "<p>Nos gummies Équilibre Intime sont certifiés pour garantir leur qualité, sécurité et respect de l’environnement :</p><ul><li><strong>100% Naturel</strong> : Aucun additif artificiel, ni conservateur. Nous utilisons uniquement des ingrédients purs et sûrs pour votre corps.</li></ul><p></p><ul><li><strong>Végan et Sans Gluten</strong> : Adapté à tous les régimes alimentaires, sans compromis sur la qualité.</li></ul><p></p><ul><li><strong>Sans OGM</strong> : Nos gummies sont fabriqués sans organismes génétiquement modifiés, pour une santé optimale.</li></ul><p></p><ul><li><strong>Halal</strong> : Conformes aux exigences alimentaires halal, pour respecter vos choix de vie.</li></ul><p></p><ul><li><strong>Testé cliniquement</strong> : Nos probiotiques Bacillus Coagulans ont fait l’objet de tests rigoureux pour assurer leur efficacité.</li></ul>",
+            "page": "",
+            "margin_top": 24,
+            "margin_bottom": 0
+          }
+        },
+        "collapsible_tab_cLCEM7": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Comment les utiliser ?",
+            "heading_size": "medium",
+            "icon": "",
+            "filled_icon": false,
+            "collapse_icon": "carret",
+            "display_top_border": true,
+            "open": false,
+            "content": "<p>Prenez <strong>2 gummies par jour</strong>, de préférence pendant un repas pour une absorption optimale.</p><p><strong>Durée recommandée :</strong><br/>👉 <strong>1 mois</strong> pour renforcer et rééquilibrer naturellement votre flore vaginale.<br/>👉 <strong>3 mois</strong> en cas de mycoses, vaginoses ou déséquilibres récurrents.<br/>👉 En <strong>entretien</strong> : 1 à 2 fois par an, ou en <strong>cure continue</strong> selon vos besoins.</p><p>Des résultats visibles <strong>dès les 7 premiers jours</strong> avec une prise régulière.</p>",
+            "page": "",
+            "margin_top": 24,
+            "margin_bottom": 0
+          }
+        },
+        "collapsible_tab_EKdxWF": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Livraison & Garantie",
+            "heading_size": "medium",
+            "icon": "",
+            "filled_icon": false,
+            "collapse_icon": "carret",
+            "display_top_border": true,
+            "open": false,
+            "content": "<p><strong>Livraison</strong><br/>Profitez d’une livraison rapide et gratuite en <strong>5 à 7 jours ouvrés via Colissimo</strong>. Toutes les commandes sont expédiées en 24 heures.</p><p><strong>Retours</strong><br/>Testez nos produits sans aucun risque grâce à notre <strong>garantie de 30 jours</strong>. Si vous n’êtes pas satisfait, vous pouvez retourner votre commande sans aucune question.</p>",
+            "page": "",
+            "margin_top": 24,
+            "margin_bottom": 0
+          }
+        },
+        "reviews_8UgFbe": {
+          "type": "reviews",
+          "settings": {
+            "color_scheme": "background-1",
+            "show_custom_bg": false,
+            "custom_bg_color": "#f2f2f2",
+            "corner_radius": 12,
+            "border_width": 0,
+            "border_color": "#b7b7b7",
+            "avatar_alignment": "top",
+            "avatar_corner_radius": 40,
+            "star_color": "#ffcc00",
+            "stars_translate": 0,
+            "checkmark_color": "#6d388b",
+            "checkmark_icon_color": "#ffffff",
+            "slider_type": "slide",
+            "autoplay": false,
+            "autoplay_speed": 5,
+            "display_arrows": true,
+            "display_dots": true,
+            "author_1": "<em>Flavie R.</em> [stars]",
+            "image_1": "shopify://shop_images/52.webp",
+            "text_1": "<p>J'ai souvent été gênée par mon odeur, mais depuis que j'utilise ça, j'ai remarqué une nette amélioration. J'ai repris confiance et je me sens vraiment plus \"fraîche\".. Foncez !! </p>",
+            "author_2": "<em>Silène V.</em> [stars]",
+            "image_2": "shopify://shop_images/50.webp",
+            "text_2": "<p>J'ai eu des vaginoses pendant des années et j'ai tout testé... Après 1 mois avec ces gummies, je ne me suis jamais sentie aussi bien que maintenant, j'ai vraiment l'impression d'avoir trouvé une VRAIE solution</p>",
+            "author_3": "<em>Leslie L.</em> [stars]",
+            "image_3": "shopify://shop_images/60_gummies_30_jours-24_b03495bf-6d5f-4d9a-b06d-f5b2d1615b9e.webp",
+            "text_3": "<p>Depuis que j'ai commencé à utiliser ça, ma secheresse vaginale a disparu et j'ai jamais été à l'aise avec mon chéri qui kiff l'odeur ! J'avais l'habitude d'éviter les relations et bien ça c'est terminé</p>",
+            "margin_top": 24,
+            "margin_bottom": 24
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "trustpilot_stars_efgnjh",
+        "emoji_benefits_pnmh69",
+        "5fcc0428-e768-4cb7-bea3-eb0274198dd1",
+        "04ba004e-2f54-4936-8b1c-8bcadf6573f6",
+        "buy_buttons",
+        "e7a28cbe-03cb-4c9d-a2c4-0e3e76ffb3e5",
+        "de158e68-5d0d-4819-a625-e2dabdff87d1",
+        "collapsible_tab_aAeDmV",
+        "collapsible_tab_QbRzVp",
+        "collapsible_tab_cLCEM7",
+        "collapsible_tab_EKdxWF",
+        "reviews_8UgFbe"
+      ],
+      "custom_css": [],
+      "settings": {
+        "display_id": false,
+        "enable_sticky_info": true,
+        "display_variant_image_first": false,
+        "disable_prepend": true,
+        "hide_variants": false,
+        "variant_image_filtering": "none",
+        "image_zoom": "none",
+        "thumbnails_ratio": "square",
+        "arrows_color_scheme": "inverse",
+        "transparent_arrows": false,
+        "dots_color_scheme": "inverse",
+        "video_player": "play_btn",
+        "enable_video_looping": false,
+        "autoplay_videos_pause_btn": false,
+        "video_sound_btn": false,
+        "video_timeline": false,
+        "play_btn_color_scheme": "accent-1",
+        "sound_btn_color_scheme": "inverse",
+        "timeline_color": "accent-1",
+        "media_size": "medium",
+        "media_position": "left",
+        "gallery_layout": "thumbnail_slider",
+        "desktop_thumbnails_position": "bottom",
+        "desktop_thumbnails_count": 5,
+        "desktop_vertical_thumbnails_width": 16,
+        "desktop_vertical_thumbnails_hide_arrows": false,
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "desktop_arrows_position": "hidden",
+        "mobile_media_corner_radius": 0,
+        "mobile_spacing_pixels": 0,
+        "mobile_arrows_position": "hidden",
+        "mobile_pagination": "hidden",
+        "mobile_thumbnails_position": "bottom",
+        "mobile_thumbnails_count": 5,
+        "mobile_vertical_thumbnails_width": 22,
+        "mobile_vertical_thumbnails_hide_arrows": true,
+        "mobile_scroll_padding_percentage": 0,
+        "mobile_scroll_padding_pixels": 14,
+        "enable_mobile_outher_spacing": false,
+        "mobile_slides_container_width": 100,
+        "mobile_slides_inner_width": 100,
+        "trust_badge_position": "top-right",
+        "trust_badge_size": "medium",
+        "mobile_padding_top": 16,
+        "mobile_padding_bottom": 16,
+        "desktop_padding_top": 36,
+        "desktop_padding_bottom": 36
+      }
+    },
+    "multicolumn_DxJPtP": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_GntVUb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Harmova_-_Statiques-5.webp",
+            "muted_autoplay": true,
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_7KUJyC": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Harmova_-_Statiques-6.webp",
+            "muted_autoplay": true,
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_WRKMkN": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Harmova_-_Statiques-7.webp",
+            "muted_autoplay": true,
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_GntVUb",
+        "column_7KUJyC",
+        "column_WRKMkN"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "Best seller #Tiktok",
+        "title_highlight_color": "#6d388b",
+        "heading_size": "h1",
+        "button_label": "",
+        "button_link": "",
+        "atc_button_label": "",
+        "atc_product": "",
+        "atc_skip_cart": false,
+        "color_scheme": "background-1",
+        "cards_color_scheme": "bg-overlay",
+        "cards_corner_radius": 20,
+        "stretch_cards": false,
+        "stretched_cards_content_alignment": "center",
+        "image_width": "full",
+        "image_ratio": "portrait",
+        "media_position": "top",
+        "column_alignment": "center",
+        "desktop_heading_size": 24,
+        "mobile_heading_size": 22,
+        "desktop_text_size": 16,
+        "mobile_text_size": 15,
+        "desktop_text_top_margin": 10,
+        "mobile_text_top_margin": 10,
+        "desktop_container_padding_y": 24,
+        "desktop_container_padding_x": 24,
+        "mobile_container_padding_y": 24,
+        "mobile_container_padding_x": 24,
+        "type": "slide",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "arrows_color_scheme": "inverse",
+        "transparent_arrows": true,
+        "dots_color_scheme": "inverse",
+        "desktop_full_page": false,
+        "columns_desktop": 3,
+        "slider_desktop": false,
+        "per_move_desktop": 1,
+        "desktop_spacing": 40,
+        "desktop_side_padding": 0,
+        "desktop_padding_calc": true,
+        "desktop_adaptive_height": false,
+        "desktop_dots_position": "hidden",
+        "desktop_arrows_position": "sides",
+        "columns_mobile": "1",
+        "slider_mobile": true,
+        "enable_mobile_preview": false,
+        "mobile_adaptive_height": false,
+        "mobile_dots_position": "hidden",
+        "mobile_arrows_position": "under",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2e2a39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d",
+        "custom_cards_colors_background": "#f3f3f3",
+        "custom_cards_gradient_background": "",
+        "custom_cards_colors_heading": "#222126",
+        "custom_cards_colors_text": "#2e2a39"
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "disabled": true,
+      "settings": {
+        "display_id": false,
+        "title": "You may also like",
+        "title_highlight_color": "#6d388b",
+        "heading_size": "h2",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 24
+      }
+    },
+    "8beb6911-28c6-482c-976a-e5421ad3e8df": {
+      "type": "custom-columns",
+      "blocks": {
+        "template--21507361800487__8beb6911-28c6-482c-976a-e5421ad3e8df-heading-1": {
+          "type": "heading",
+          "settings": {
+            "column": "col_1",
+            "visibility": "always-display",
+            "heading": "Custom columns",
+            "title_highlight_color": "#6d388b",
+            "heading_size": "h1",
+            "alignment": "center",
+            "mobile_alignment": "mobile-center",
+            "margin_top": 20,
+            "margin_bottom": 20
+          }
+        },
+        "template--21507361800487__8beb6911-28c6-482c-976a-e5421ad3e8df-richtext-1": {
+          "type": "richtext",
+          "settings": {
+            "column": "col_1",
+            "visibility": "always-display",
+            "text": "<p>Use the flexible grid system to create any layout. Each block can be placed in any of the columns.</p>",
+            "text_style": "body",
+            "alignment": "center",
+            "mobile_alignment": "mobile-center",
+            "margin_top": 20,
+            "margin_bottom": 20
+          }
+        },
+        "template--21507361800487__8beb6911-28c6-482c-976a-e5421ad3e8df-icon_with_text-1": {
+          "type": "icon_with_text",
+          "settings": {
+            "column": "col_2",
+            "visibility": "always-display",
+            "icon": "check_circle",
+            "filled_icon": false,
+            "icon_size": "m",
+            "icon_position": "next-to-title",
+            "icon_color": "accent-1",
+            "icon_heading_size": "h3",
+            "icon_text_alignment": "left",
+            "title": "Icon with text",
+            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p>",
+            "margin_top": 20,
+            "margin_bottom": 30
+          }
+        },
+        "template--21507361800487__8beb6911-28c6-482c-976a-e5421ad3e8df-icon_with_text-2": {
+          "type": "icon_with_text",
+          "settings": {
+            "column": "col_2",
+            "visibility": "always-display",
+            "icon": "check_circle",
+            "filled_icon": false,
+            "icon_size": "m",
+            "icon_position": "next-to-title",
+            "icon_color": "accent-1",
+            "icon_heading_size": "h3",
+            "icon_text_alignment": "left",
+            "title": "Icon with text",
+            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p>",
+            "margin_top": 20,
+            "margin_bottom": 20
+          }
+        },
+        "template--21507361800487__8beb6911-28c6-482c-976a-e5421ad3e8df-image-1": {
+          "type": "image",
+          "settings": {
+            "column": "col_3",
+            "visibility": "always-display",
+            "width": 100,
+            "alignment": "center",
+            "mobile_alignment": "center",
+            "border_radius": 0,
+            "margin_top": 20,
+            "margin_bottom": 20
+          }
+        },
+        "template--21507361800487__8beb6911-28c6-482c-976a-e5421ad3e8df-icon_with_text-3": {
+          "type": "icon_with_text",
+          "settings": {
+            "column": "col_4",
+            "visibility": "always-display",
+            "icon": "check_circle",
+            "filled_icon": false,
+            "icon_size": "m",
+            "icon_position": "next-to-title",
+            "icon_color": "accent-1",
+            "icon_heading_size": "h3",
+            "icon_text_alignment": "left",
+            "title": "Icon with text",
+            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p>",
+            "margin_top": 20,
+            "margin_bottom": 30
+          }
+        },
+        "template--21507361800487__8beb6911-28c6-482c-976a-e5421ad3e8df-icon_with_text-4": {
+          "type": "icon_with_text",
+          "settings": {
+            "column": "col_4",
+            "visibility": "always-display",
+            "icon": "check_circle",
+            "filled_icon": false,
+            "icon_size": "m",
+            "icon_position": "next-to-title",
+            "icon_color": "accent-1",
+            "icon_heading_size": "h3",
+            "icon_text_alignment": "left",
+            "title": "Icon with text",
+            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p>",
+            "margin_top": 20,
+            "margin_bottom": 20
+          }
+        }
+      },
+      "block_order": [
+        "template--21507361800487__8beb6911-28c6-482c-976a-e5421ad3e8df-heading-1",
+        "template--21507361800487__8beb6911-28c6-482c-976a-e5421ad3e8df-richtext-1",
+        "template--21507361800487__8beb6911-28c6-482c-976a-e5421ad3e8df-icon_with_text-1",
+        "template--21507361800487__8beb6911-28c6-482c-976a-e5421ad3e8df-icon_with_text-2",
+        "template--21507361800487__8beb6911-28c6-482c-976a-e5421ad3e8df-image-1",
+        "template--21507361800487__8beb6911-28c6-482c-976a-e5421ad3e8df-icon_with_text-3",
+        "template--21507361800487__8beb6911-28c6-482c-976a-e5421ad3e8df-icon_with_text-4"
+      ],
+      "disabled": true,
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "color_scheme": "background-1",
+        "columns_count": 4,
+        "column_gap_desktop": 40,
+        "row_gap_desktop": 40,
+        "desktop_vertical_alignment": "center",
+        "column_gap_mobile": 20,
+        "row_gap_mobile": 30,
+        "mobile_vertical_alignment": "flex-start",
+        "col_1_desktop_width": 12,
+        "col_1_mobile_width": 4,
+        "col_1_visibility": "always-display",
+        "col_2_desktop_width": 4,
+        "col_2_mobile_width": 4,
+        "col_2_visibility": "always-display",
+        "col_3_desktop_width": 4,
+        "col_3_mobile_width": 4,
+        "col_3_visibility": "always-display",
+        "col_4_desktop_width": 4,
+        "col_4_mobile_width": 4,
+        "col_4_visibility": "always-display",
+        "col_5_desktop_width": 3,
+        "col_5_mobile_width": 4,
+        "col_5_visibility": "always-display",
+        "col_6_desktop_width": 3,
+        "col_6_mobile_width": 4,
+        "col_6_visibility": "always-display",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2e2a39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d"
+      }
+    },
+    "4fc05ee5-1c30-4863-b88f-81cb6fa7c41a": {
+      "type": "icons-with-content",
+      "blocks": {
+        "image_qe8iCi": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/113_1.webp",
+            "atc_product": "",
+            "atc_skip_cart": false
+          }
+        },
+        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-icon-1": {
+          "type": "icon",
+          "settings": {
+            "icon": "check_circle",
+            "filled_icon": false,
+            "title": "Restaure l'équilibre naturel",
+            "text": "<p>Grâce à des <strong>probiotiques puissants</strong>, ces gummies rétablissent naturellement le pH vaginal, éliminant ainsi les bactéries responsables des vaginoses, cystites et autres infections.</p>"
+          }
+        },
+        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-icon-2": {
+          "type": "icon",
+          "settings": {
+            "icon": "check_circle",
+            "filled_icon": false,
+            "title": "Fraicheur & confiance",
+            "text": "<p>Avec<strong> l’extrait d’ananas</strong>, ces gummies combattent<strong> les mauvaises odeurs </strong>et vous procurent un parfum frais et fruité toute la journée. </p>"
+          }
+        },
+        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-icon-3": {
+          "type": "icon",
+          "settings": {
+            "icon": "check_circle",
+            "filled_icon": false,
+            "title": "Soulage les inconforts intimes",
+            "text": "<p>Ils soulagent la sécheresse, les démangeaisons et les inconforts tout en boostant la<strong> lubrification naturelle</strong>, pour que vous soyez sereine lors de vos moments intimes.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "image_qe8iCi",
+        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-icon-1",
+        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-icon-2",
+        "template--21507361800487__4fc05ee5-1c30-4863-b88f-81cb6fa7c41a-icon-3"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "color_scheme": "custom",
+        "icon_size": "m",
+        "icon_position": "next-to-title",
+        "icon_color": "accent-1",
+        "icon_heading_size": "h3",
+        "icon_text_alignment": "left",
+        "icons_desktop_layout": "1-column",
+        "icons_mobile_layout": "1-column",
+        "desktop_content_alignment": "left",
+        "layout": "image_first",
+        "mobile_layout": "text_first",
+        "hide_content_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#fff5f7",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2e2a39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d"
+      }
+    },
+    "rich_text_WFQicg": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_bFFDg4": {
+          "type": "heading",
+          "settings": {
+            "title": "<strong>La </strong><em><strong>puissance du naturelle</strong></em><strong> pour votre équilibre intime.</strong>",
+            "title_highlight_color": "#121212",
+            "heading_size": "h1"
+          }
+        },
+        "text_f9PLQd": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>3 ingrédients ciblés </strong>qui rétablissent l'équilibre intime.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_bFFDg4",
+        "text_f9PLQd"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "full_width": true,
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 0,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2e2a39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d"
+      }
+    },
+    "multicolumn_nGAYhm": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_3cxW8p": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Bacillus_coagulans_visualization.webp",
+            "muted_autoplay": true,
+            "title": "Bacillus Coagulans",
+            "text": "<p>Ce probiotique est le seul qui survit jusqu'au vagin, où il rééquilibre le pH, élimine les mauvaises bactéries, et restaure l’équilibre naturel de la flore vaginale.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_CxQ8ac": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/u3545688894_Create_a_vibrant_visualization_of_a_pineapple_Use_2b511932-d6ce-4a8d-aab6-f19b6e14d0fa_2_1.webp",
+            "muted_autoplay": true,
+            "title": "Extrait d'Ananas biologique",
+            "text": "<p>Riche en vitamines et enzymes naturelles, Il neutralise naturellement les odeurs indésirables et maintient un pH idéal.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_aBDpLD": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Vitamin-C_visualization.webp",
+            "muted_autoplay": true,
+            "title": "Vitamine C",
+            "text": "<p>Essentielle pour la santé intime, elle renforce les tissus vaginaux, stimule la lubrification naturelle et rend les activités quotidiennes plus confortables.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_3cxW8p",
+        "column_CxQ8ac",
+        "column_aBDpLD"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "",
+        "title_highlight_color": "#6d388b",
+        "heading_size": "h2",
+        "button_label": "",
+        "button_link": "",
+        "atc_button_label": "",
+        "atc_product": "",
+        "atc_skip_cart": false,
+        "color_scheme": "background-1",
+        "cards_color_scheme": "bg-overlay",
+        "cards_corner_radius": 20,
+        "stretch_cards": false,
+        "stretched_cards_content_alignment": "center",
+        "image_width": "full",
+        "image_ratio": "circle",
+        "media_position": "top",
+        "column_alignment": "center",
+        "desktop_heading_size": 24,
+        "mobile_heading_size": 22,
+        "desktop_text_size": 16,
+        "mobile_text_size": 15,
+        "desktop_text_top_margin": 10,
+        "mobile_text_top_margin": 10,
+        "desktop_container_padding_y": 24,
+        "desktop_container_padding_x": 24,
+        "mobile_container_padding_y": 24,
+        "mobile_container_padding_x": 24,
+        "type": "slide",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "arrows_color_scheme": "inverse",
+        "transparent_arrows": true,
+        "dots_color_scheme": "inverse",
+        "desktop_full_page": false,
+        "columns_desktop": 3,
+        "slider_desktop": false,
+        "per_move_desktop": 1,
+        "desktop_spacing": 40,
+        "desktop_side_padding": 0,
+        "desktop_padding_calc": true,
+        "desktop_adaptive_height": false,
+        "desktop_dots_position": "hidden",
+        "desktop_arrows_position": "sides",
+        "columns_mobile": "1",
+        "slider_mobile": true,
+        "enable_mobile_preview": false,
+        "mobile_adaptive_height": false,
+        "mobile_dots_position": "hidden",
+        "mobile_arrows_position": "under",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2e2a39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d",
+        "custom_cards_colors_background": "#f3f3f3",
+        "custom_cards_gradient_background": "",
+        "custom_cards_colors_heading": "#222126",
+        "custom_cards_colors_text": "#2e2a39"
+      }
+    },
+    "results_w9gbRp": {
+      "type": "results",
+      "blocks": {
+        "row_WG9yGd": {
+          "type": "row",
+          "settings": {
+            "percentage": 99,
+            "row_text": "<p>ont observé une amélioration rapide des infections et des douleurs dès 7 jours.</p>"
+          }
+        },
+        "row_3BLFwe": {
+          "type": "row",
+          "settings": {
+            "percentage": 97,
+            "row_text": "<p>se sentent fraîches et confiantes, débarrassées des mauvaises odeurs.</p>"
+          }
+        },
+        "row_Hwwd43": {
+          "type": "row",
+          "settings": {
+            "percentage": 95,
+            "row_text": "<p>ressentent une meilleure intimité, boostant leur confiance et leur relation.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "row_WG9yGd",
+        "row_3BLFwe",
+        "row_Hwwd43"
+      ],
+      "name": "Results",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "",
+        "title_highlight_color": "#6d388b",
+        "heading_size": "h1",
+        "text": "",
+        "image": "shopify://shop_images/115.webp",
+        "video_muted_autoplay": true,
+        "color_scheme": "custom",
+        "layout": "results_second",
+        "results_headline": "Les chiffres parlent d'eux-mêmes",
+        "results_title_highlight_color": "#6d388b",
+        "results_headline_size": "h1",
+        "results_text": "",
+        "results_headline_alignment": "left",
+        "caption": "<p><em>Basé sur plus de 2500 avis clients </em><em><strong>vérifiés.</strong></em></p>",
+        "button_label": "",
+        "link": "",
+        "button_style_secondary": false,
+        "atc_button_label": "",
+        "atc_product": "",
+        "atc_skip_cart": false,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#fff5f7",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2e2a39",
+        "custom_colors_accent": "#f96e91",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d"
+      }
+    },
+    "55bd100e-3bbd-426c-a5cf-eed7b2a3706f": {
+      "type": "testimonials",
+      "blocks": {
+        "template--21507361800487__55bd100e-3bbd-426c-a5cf-eed7b2a3706f-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/52.webp",
+            "star_rating": 5,
+            "title": "Des vrais résultats",
+            "text": "<p>J'ai souvent été gênée par mon odeur, mais depuis que j'utilise ça, j'ai remarqué une nette amélioration. J'ai repris confiance et je me sens vraiment plus \"fraîche\".. Foncez !! </p>",
+            "author": "<em><strong>Flavie R.</strong></em>"
+          }
+        },
+        "template--21507361800487__55bd100e-3bbd-426c-a5cf-eed7b2a3706f-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/50.webp",
+            "star_rating": 5,
+            "title": "Les infections.. Mon enfer",
+            "text": "<p>J'ai eu des vaginoses pendant des années et j'ai tout testé... Après 1 mois avec ces gummies, je ne me suis jamais sentie aussi bien que maintenant, j'ai vraiment l'impression d'avoir trouvé une VRAIE solution</p>",
+            "author": "<em><strong>Silène V.</strong></em>"
+          }
+        },
+        "template--21507361800487__55bd100e-3bbd-426c-a5cf-eed7b2a3706f-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/60_gummies_30_jours-24_3f93e477-9c27-44c7-8328-d10188f4aa15.webp",
+            "star_rating": 5,
+            "title": "Je valide à 100%",
+            "text": "<p>Depuis que j'ai commencé à utiliser ça, ma secheresse vaginale a disparu et j'ai jamais été à l'aise avec mon chéri qui kiff l'odeur ! J'avais l'habitude d'éviter les relations et bien ça c'est terminé</p>",
+            "author": "<em><strong>Leslie L.</strong></em>"
+          }
+        }
+      },
+      "block_order": [
+        "template--21507361800487__55bd100e-3bbd-426c-a5cf-eed7b2a3706f-column-1",
+        "template--21507361800487__55bd100e-3bbd-426c-a5cf-eed7b2a3706f-column-2",
+        "template--21507361800487__55bd100e-3bbd-426c-a5cf-eed7b2a3706f-column-3"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "Ce que disent nos clientes",
+        "title_highlight_color": "#6d388b",
+        "heading_size": "h2",
+        "text": "<p>+2500 CLIENTES SATISFAITES</p>",
+        "color_scheme": "background-1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "column_alignment": "center",
+        "show_stars": true,
+        "inactive_stars_style": "solid",
+        "star_color": "#ffcc00",
+        "bg_star_color": "#ececec",
+        "show_quotes": true,
+        "quotes_color_scheme": "accent-1",
+        "cards_color_scheme": "bg-overlay",
+        "type": "slide",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "arrows_color_scheme": "inverse",
+        "transparent_arrows": true,
+        "dots_color_scheme": "inverse",
+        "desktop_full_page": false,
+        "columns_desktop": 3,
+        "slider_desktop": false,
+        "per_move_desktop": 1,
+        "desktop_spacing": 40,
+        "desktop_side_padding": 0,
+        "desktop_padding_calc": true,
+        "desktop_adaptive_height": false,
+        "desktop_dots_position": "under",
+        "desktop_arrows_position": "sides",
+        "slider_mobile": true,
+        "enable_mobile_preview": false,
+        "mobile_adaptive_height": false,
+        "mobile_dots_position": "under",
+        "mobile_arrows_position": "under",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2e2a39",
+        "custom_cards_colors_background": "#f3f3f3",
+        "custom_cards_gradient_background": "",
+        "custom_cards_colors_text": "#2e2a39"
+      }
+    },
+    "collapsible_content_4zLnpC": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_weihXi": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Quand vais-je avoir des résultats ?",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_raTdfW": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Qu'est-ce qui rend ces gummies différents ?",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_6LcgX9": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Puis-je prendre ces gummies avec d'autres suppléments ?",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_dEgmEA": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "À quelle fréquence dois-je prendre les gummies ?",
+            "icon": "",
+            "filled_icon": false,
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_weihXi",
+        "collapsible_row_raTdfW",
+        "collapsible_row_6LcgX9",
+        "collapsible_row_dEgmEA"
+      ],
+      "name": "t:sections.collapsible_content.presets.name",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "caption": "Vos questions fréquentes",
+        "title": "FAQ",
+        "title_highlight_color": "#6d388b",
+        "heading_size": "h0",
+        "heading_alignment": "center",
+        "layout": "section",
+        "color_scheme": "background-1",
+        "container_color_scheme": "custom",
+        "open_first_collapsible_row": false,
+        "video_muted_autoplay": true,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "row_heading_size": "medium",
+        "collapse_icon": "carret",
+        "display_top_border": true,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2e2a39",
+        "custom_contaner_colors_background": "#fff5f7",
+        "custom_container_gradient_background": "",
+        "custom_contaner_colors_text": "#2e2a39"
+      }
+    },
+    "b321ab88-2b59-4dba-bade-54885c874ca5": {
+      "type": "section-divider",
+      "settings": {
+        "visibility": "always-display",
+        "shape": "waves_3",
+        "flip_horizontal": false,
+        "flip_vertical": false,
+        "shape_color": "accent-1",
+        "custom_shape_color": "#dd1d1d",
+        "background_color": "background-1",
+        "custom_background_color": "#ffffff",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "horizontal_ticker_DkYANt",
+    "main",
+    "multicolumn_DxJPtP",
+    "related-products",
+    "8beb6911-28c6-482c-976a-e5421ad3e8df",
+    "4fc05ee5-1c30-4863-b88f-81cb6fa7c41a",
+    "rich_text_WFQicg",
+    "multicolumn_nGAYhm",
+    "results_w9gbRp",
+    "55bd100e-3bbd-426c-a5cf-eed7b2a3706f",
+    "collapsible_content_4zLnpC",
+    "b321ab88-2b59-4dba-bade-54885c874ca5"
+  ]
+}
