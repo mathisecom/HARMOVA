@@ -101,7 +101,7 @@
         "collapsible_row_iHyWP3": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Quand vais-je recevoir mes gummies ?",
+            "heading": "Quand vais-je avoir des résultats ?",
             "icon": "",
             "filled_icon": false,
             "row_content": "",
@@ -111,7 +111,7 @@
         "collapsible_row_WGr8C9": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Et si mon colis met du temps à arriver ?",
+            "heading": "Qu'est-ce qui rend ces gummies différents ?",
             "icon": "",
             "filled_icon": false,
             "row_content": "",
@@ -150,7 +150,7 @@
         "visibility": "always-display",
         "caption": "",
         "title": "Les gummies <em><strong>Harmova</strong></em><strong> </strong>",
-        "title_highlight_color": "#2e2a39",
+        "title_highlight_color": "#f96e91",
         "heading_size": "h1",
         "heading_alignment": "center",
         "layout": "none",
