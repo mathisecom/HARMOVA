@@ -11,46 +11,245 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 36,
         "padding_bottom": 36
       }
     },
-    "newsletter": {
-      "type": "newsletter",
+    "icons_with_content_fK7Pqt": {
+      "type": "icons-with-content",
       "blocks": {
-        "heading": {
+        "heading_fNX7Hp": {
           "type": "heading",
           "settings": {
+            "title": "<strong>La solution :</strong> Triflora Balance™ de chez <em>Harmova.</em>",
+            "title_highlight_color": "#2e2a39",
             "heading_size": "h1"
           }
         },
-        "paragraph": {
-          "type": "paragraph",
+        "text_icJQNt": {
+          "type": "text",
           "settings": {
-            "text": "<p>Join our email list for exclusive offers and the latest news. </p>"
+            "text": "<p>Harmova repose sur un complexe exclusif, TriFlora Balance™, une synergie de 3 actifs sélectionnés et cliniquement validés, pour restaurer en profondeur l’équilibre de la flore intime :</p>",
+            "text_style": "body"
           }
         },
-        "email-form": {
-          "type": "email_form",
-          "settings": {}
+        "icon_k4gyPm": {
+          "type": "icon",
+          "settings": {
+            "icon": "check_circle",
+            "filled_icon": false,
+            "image": "shopify://shop_images/IMAGE_COMPOSANT_3_650x_212815f1-e418-4d21-a79d-89c71c9d3ce6.webp",
+            "title": "Icon with text",
+            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p>"
+          }
+        },
+        "icon_46tDRR": {
+          "type": "icon",
+          "settings": {
+            "icon": "check_circle",
+            "filled_icon": false,
+            "image": "shopify://shop_images/IMAGE_COMPOSANT_2_650x_9cd0bfc6-3995-4bda-a7cc-a9c4587b675e.webp",
+            "title": "Icon with text",
+            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p>"
+          }
+        },
+        "icon_THqK9z": {
+          "type": "icon",
+          "settings": {
+            "icon": "check_circle",
+            "filled_icon": false,
+            "image": "shopify://shop_images/IMAGE_COMPOSANT_650x_5aed1d20-b2ef-431c-acd4-b16e4c1eedec.webp",
+            "title": "Icon with text",
+            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p>"
+          }
+        },
+        "image_ncVdQr": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/PACKAGING.webp",
+            "atc_product": "",
+            "atc_skip_cart": false
+          }
         }
       },
       "block_order": [
-        "heading",
-        "paragraph",
-        "email-form"
+        "heading_fNX7Hp",
+        "text_icJQNt",
+        "icon_k4gyPm",
+        "icon_46tDRR",
+        "icon_THqK9z",
+        "image_ncVdQr"
       ],
+      "name": "Icons with content",
       "settings": {
-        "color_scheme": "background-2",
-        "full_width": true,
-        "padding_top": 68,
-        "padding_bottom": 52
+        "display_id": false,
+        "visibility": "always-display",
+        "color_scheme": "custom",
+        "icon_size": "xxl",
+        "icon_position": "next-to-text",
+        "icon_color": "accent-1",
+        "icon_heading_size": "h4",
+        "icon_text_alignment": "left",
+        "icons_desktop_layout": "1-column",
+        "icons_mobile_layout": "1-column",
+        "desktop_content_alignment": "left",
+        "layout": "text_first",
+        "mobile_layout": "text_first",
+        "hide_content_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#fff5f7",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d"
+      }
+    },
+    "comparison_table_nXHeeM": {
+      "type": "comparison-table",
+      "blocks": {
+        "row_PfEx4G": {
+          "type": "row",
+          "settings": {
+            "benefit": "<strong>Agit en profondeur </strong>sur la flore intime.",
+            "us": true,
+            "others": false,
+            "others_2": false,
+            "others_3": false
+          }
+        },
+        "row_L3FK8z": {
+          "type": "row",
+          "settings": {
+            "benefit": "<strong>Élimine les bactéries</strong> à l’origine des odeurs et infections",
+            "us": true,
+            "others": false,
+            "others_2": false,
+            "others_3": false
+          }
+        },
+        "row_PLFdPa": {
+          "type": "row",
+          "settings": {
+            "benefit": "Résultats visibles <strong>en 7 jours</strong>, flore stabilisée <strong>en 30 jours</strong>.",
+            "us": true,
+            "others": false,
+            "others_2": false,
+            "others_3": false
+          }
+        },
+        "row_N4xPJ9": {
+          "type": "row",
+          "settings": {
+            "benefit": "<strong>80% de femmes</strong> sans récidive après la cure.",
+            "us": true,
+            "others": false,
+            "others_2": false,
+            "others_3": false
+          }
+        },
+        "row_wcG6fD": {
+          "type": "row",
+          "settings": {
+            "benefit": "<strong>Actifs puissants</strong>, zéro ingrédient inutile.",
+            "us": true,
+            "others": false,
+            "others_2": false,
+            "others_3": false
+          }
+        },
+        "row_miQmbU": {
+          "type": "row",
+          "settings": {
+            "benefit": "Développé avec des <strong>médecins spécialisés </strong>en santé intime.",
+            "us": true,
+            "others": false,
+            "others_2": false,
+            "others_3": false
+          }
+        }
+      },
+      "block_order": [
+        "row_PfEx4G",
+        "row_L3FK8z",
+        "row_PLFdPa",
+        "row_N4xPJ9",
+        "row_wcG6fD",
+        "row_miQmbU"
+      ],
+      "name": "Comparison table",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "Comparison table",
+        "title_highlight_color": "#6D388B",
+        "heading_size": "h1",
+        "text": "<p>Talk about how and why is your brand better than the others.</p>",
+        "button_label": "",
+        "link": "",
+        "button_style_secondary": false,
+        "atc_button_label": "",
+        "atc_product": "",
+        "atc_skip_cart": false,
+        "desktop_alignment": "center",
+        "mobile_alignment": "center",
+        "color_scheme": "custom",
+        "layout": "table_second",
+        "style": "classic",
+        "corner_radius": 20,
+        "number_of_competitors": 1,
+        "us_label": "[shop_name]",
+        "us_label_size": 18,
+        "logo": "shopify://shop_images/logo_green_1_1dfbd99b-b91d-44fe-b4a5-144bde6f40bd.png",
+        "logo_width": 90,
+        "mobile_logo_width": 75,
+        "others_label": "Probiotique classique",
+        "others_label_size": 14,
+        "others_logo_width": 90,
+        "others_mobile_logo_width": 60,
+        "others_2_label": "Competitor 2",
+        "others_2_label_size": 18,
+        "others_2_logo_width": 90,
+        "others_2_mobile_logo_width": 60,
+        "others_3_label": "Competitor 3",
+        "others_3_label_size": 18,
+        "others_3_logo_width": 90,
+        "others_3_mobile_logo_width": 60,
+        "checkmark_style": "regular",
+        "checkmark_color": "#53AF01",
+        "checkmark_bg_color": "#53AF01",
+        "x_style": "regular",
+        "x_color": "#121212",
+        "x_bg_color": "#DBDBDB",
+        "opposite_icon_colors": "original",
+        "highlighted_color_scheme": "accent-1",
+        "highlighted_separator_opacity": 0,
+        "highlighted_overlay_opacity": 0,
+        "other_cells_color_scheme": "background-1",
+        "regular_separator_opacity": 10,
+        "regular_overlay_opacity": 0,
+        "minimalistic_border_opacity": 16,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#fff5f7",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d",
+        "custom_colors_highlighted_background": "#2E2A39",
+        "custom_colors_highlighted_text": "#FFFFFF",
+        "custom_colors_others_background": "#FFFFFF",
+        "custom_colors_others_text": "#2E2A39"
       }
     }
   },
   "order": [
     "main",
-    "newsletter"
+    "icons_with_content_fK7Pqt",
+    "comparison_table_nXHeeM"
   ]
 }
