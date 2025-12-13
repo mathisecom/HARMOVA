@@ -240,6 +240,12 @@
             "margin_bottom": 15
           }
         },
+        "kaching_bundles_app_block_BkTX3n": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "{{section.settings.product}}"
+          }
+        },
         "variant_picker_b8HAtr": {
           "type": "variant_picker",
           "disabled": true,
@@ -485,6 +491,7 @@
         "text_JUwwGx",
         "title_k7mgpP",
         "price_RqENL4",
+        "kaching_bundles_app_block_BkTX3n",
         "variant_picker_b8HAtr",
         "quantity_selector_kqARYJ",
         "buy_buttons_QqYtqz",
