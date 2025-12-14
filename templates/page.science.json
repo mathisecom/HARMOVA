@@ -386,6 +386,76 @@
         "custom_cards_gradient_background": "",
         "custom_cards_colors_text": "#2E2A39"
       }
+    },
+    "slideshow_hero_FWpG7H": {
+      "type": "slideshow-hero",
+      "blocks": {
+        "slide_H3hgBh": {
+          "type": "slide",
+          "settings": {
+            "desktop_bg_image": "shopify://shop_images/BANNER.webp",
+            "desktop_overlay_color": "#000000",
+            "desktop_overlay_opacity": 0,
+            "mobile_bg_image": "shopify://shop_images/BANNER.webp",
+            "mobile_overlay_color": "#000000",
+            "mobile_overlay_opacity": 0,
+            "display_sound_btn": false,
+            "sound_btn_color_scheme": "inverse",
+            "heading_prefix": "",
+            "heading": "Une formule certifiée, conçue avec des experts",
+            "title_highlight_color": "#6D388B",
+            "heading_size": "h1",
+            "heading_suffix": "",
+            "heading_prefix_size": "h5",
+            "text": "<h5>Nous collaborons avec une équipe de médecins spécialisés en santé féminine et en équilibre hormonal. Ensemble, nous formulons des produits à base d’ingrédients de haute qualité, conçus pour cibler la cause profonde des déséquilibres intimes et offrir des résultats durables, pour un mieux-être réel et durable.</h5>",
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false,
+            "color_scheme": "custom",
+            "full_page_width": false,
+            "content_max_width": "unlimited",
+            "content_pixels_max_width": 500,
+            "content_percentage_max_width": 50,
+            "content_vertical_position": "center",
+            "content_horizontal_position": "center",
+            "content_text_alignment": "center",
+            "mobile_content_vertical_position": "center",
+            "mobile_content_text_alignment": "center",
+            "custom_colors_text": "#ffffff",
+            "custom_colors_solid_button_background": "#dd1d1d",
+            "custom_colors_solid_button_text": "#ffffff",
+            "custom_colors_outline_button": "#dd1d1d"
+          }
+        }
+      },
+      "block_order": [
+        "slide_H3hgBh"
+      ],
+      "name": "Slideshow hero",
+      "settings": {
+        "visibility": "always-display",
+        "min_desktop_height_type": "pixels",
+        "desktop_pixels_height": 600,
+        "min_mobile_height_type": "pixels",
+        "mobile_pixels_height": 400,
+        "transparent_header": false,
+        "transparent_header_text_color": "text",
+        "transparent_header_highlighted_link_color": "background-1",
+        "transparent_header_hover_link_color": "accent-1",
+        "transparent_header_logo": "main",
+        "hide_announcement_bars": false,
+        "slider_type": "loop",
+        "drag": false,
+        "autoplay": false,
+        "autoplay_speed": 10,
+        "enable_dots": true,
+        "dots_color_scheme": "background-1",
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
     }
   },
   "order": [
@@ -393,6 +463,7 @@
     "icons_with_content_fK7Pqt",
     "comparison_table_nXHeeM",
     "image_with_text_PGwRn4",
-    "icon_bar_PPwzft"
+    "icon_bar_PPwzft",
+    "slideshow_hero_FWpG7H"
   ]
 }
