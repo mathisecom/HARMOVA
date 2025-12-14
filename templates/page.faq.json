@@ -26,7 +26,7 @@
             "heading": "Quand vais-je recevoir mes gummies ?",
             "icon": "",
             "filled_icon": false,
-            "row_content": "",
+            "row_content": "<p>On sait que vous êtes impatiente de recevoir vos gummies ! </p><p>Une fois votre commande passée, elle sera expédiée sous 24 heures et vous recevrez votre colis dans <strong>un délai de 5 à 7 jours ouvrés via La Poste</strong>, selon votre localisation. </p><p><strong>Patience, ça va arriver vite !</strong></p>",
             "page": ""
           }
         },
@@ -36,7 +36,7 @@
             "heading": "Et si mon colis met du temps à arriver ?",
             "icon": "",
             "filled_icon": false,
-            "row_content": "",
+            "row_content": "<p>Parfois, la magie de La Poste prend un peu plus de temps que prévu. Si votre commande tarde, contactez notre équipe avec votre numéro de commande sur la page contact ou via e-mail : contact@myharmova.com</p><p>On s’occupe de tout pour que vous receviez votre masque au plus vite.</p>",
             "page": ""
           }
         },
@@ -46,7 +46,7 @@
             "heading": "Comment puis-je suivre ma commande ?",
             "icon": "",
             "filled_icon": false,
-            "row_content": "",
+            "row_content": "<p>Bien sûr ! Dès que votre colis est en route, vous recevrez <strong>un numéro de suivi par email</strong>. </p><p>Vous pourrez suivre chaque étape de son voyage jusqu'à chez vous. </p>",
             "page": ""
           }
         },
@@ -56,7 +56,7 @@
             "heading": "Et si je ne suis pas satisfaite ou si j'ai changé d'avis ?",
             "icon": "",
             "filled_icon": false,
-            "row_content": "",
+            "row_content": "<p><strong>Pas de panique, on est là pour vous ! </strong></p><p>Si pour une raison quelconque vous n’êtes pas totalement satisfaite de vos gummies, vous bénéficiez de <strong>notre garantie de 30 jours satisfait ou remboursé</strong>. </p><p>Vous n'avez qu’à nous contacter, et on s’occupe du reste.</p>",
             "page": ""
           }
         }
