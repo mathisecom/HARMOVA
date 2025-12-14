@@ -312,8 +312,8 @@
             "icon": "check_circle",
             "filled_icon": false,
             "image": "shopify://shop_images/ICONE_1.svg",
-            "title": "Icon",
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p><p></p>"
+            "title": "Après 7 jours",
+            "text": "<p>Premiers signes de confort, sensation de fraîcheur et apaisement.</p>"
           }
         },
         "column_DdwAmQ": {
@@ -322,8 +322,8 @@
             "icon": "check_circle",
             "filled_icon": false,
             "image": "shopify://shop_images/ICONE_2.svg",
-            "title": "Icon",
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p><p></p>"
+            "title": "Après 15 jours",
+            "text": "<p>Odeurs réduites, pH rééquilibré, plus d’infections.</p>"
           }
         },
         "column_hp9hRX": {
@@ -332,8 +332,8 @@
             "icon": "check_circle",
             "filled_icon": false,
             "image": "shopify://shop_images/ICONE_3.svg",
-            "title": "Icon",
-            "text": "<p>Pair text with an icon to focus on your chosen product, collection, or blog post</p><p></p>"
+            "title": "Après 30 jours",
+            "text": "<p>Flore stabilisée, protection renforcée, bien-être intime retrouvé.</p>"
           }
         }
       },
@@ -346,8 +346,8 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "title": "Icon bar",
-        "title_highlight_color": "#6D388B",
+        "title": "Un retour à la <strong>normal</strong>",
+        "title_highlight_color": "#f96e91",
         "heading_size": "h1",
         "text": "",
         "color_scheme": "background-1",
