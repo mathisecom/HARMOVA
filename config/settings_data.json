@@ -35,6 +35,8 @@
     "type_body_font": "harmonia_sans_n4",
     "custom_body_font_weight": 300,
     "body_scale": 100,
+    "body_line_height": 1.8,
+    "body_letter_spacing": 0.7,
     "enable_rtl": false,
     "display_store_languages": false,
     "enable_load_animations": true,
