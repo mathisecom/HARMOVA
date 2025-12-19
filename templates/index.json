@@ -12,6 +12,18 @@
     "image_with_text_8XHqnM": {
       "type": "image-with-text",
       "blocks": {
+        "trustpilot_stars_r3QCf9": {
+          "type": "trustpilot_stars",
+          "settings": {
+            "rating": 5,
+            "star_color": "#00b67a",
+            "bg_star_color": "#c8c8c8",
+            "star_symbol_color": "#ffffff",
+            "label": "<strong>4,8/5</strong> | +1,139 avis",
+            "size": 12,
+            "scroll_id": ""
+          }
+        },
         "heading_Rp4HVF": {
           "type": "heading",
           "settings": {
@@ -37,6 +49,7 @@
         }
       },
       "block_order": [
+        "trustpilot_stars_r3QCf9",
         "heading_Rp4HVF",
         "text_bE4pRT",
         "button_ctak93"
