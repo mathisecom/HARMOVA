@@ -760,6 +760,63 @@
         "custom_cards_colors_text": "#2e2a39"
       }
     },
+    "horizontal_ticker_9aYEgq": {
+      "type": "horizontal-ticker",
+      "blocks": {
+        "reviews_YVywpH": {
+          "type": "reviews",
+          "settings": {
+            "color_scheme": "accent-1",
+            "show_custom_bg": true,
+            "custom_bg_color": "#ef5193",
+            "corner_radius": 12,
+            "border_width": 0,
+            "border_color": "#B7B7B7",
+            "avatar_alignment": "top",
+            "avatar_corner_radius": 40,
+            "star_color": "#ffcc00",
+            "stars_translate": 0,
+            "checkmark_color": "#6D388B",
+            "checkmark_icon_color": "#FFFFFF",
+            "author_1": "<em>Author</em> [stars]",
+            "image_1": "shopify://shop_images/harmova-2-8_17b9d799-65ba-4e5b-a007-d691583cf8d5.webp",
+            "text_1": "<p>Share positive thoughts and feedback from your customer.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "reviews_YVywpH"
+      ],
+      "name": "Horizontal Ticker",
+      "settings": {
+        "visibility": "always-display",
+        "speed": 3,
+        "direction": "normal",
+        "stop_on_hover": false,
+        "mobile_spacing": 60,
+        "desktop_spacing": 100,
+        "color_scheme": "custom",
+        "mobile_text_size": 16,
+        "desktop_text_size": 18,
+        "italic_text": false,
+        "uppercase_text": false,
+        "bold_text": false,
+        "mobile_image_height": 26,
+        "desktop_image_height": 40,
+        "mobile_reviews_width": 300,
+        "desktop_reviews_width": 400,
+        "hidden_products": "",
+        "enable_specific_display": false,
+        "displayed_products": "",
+        "mobile_padding_top": 12,
+        "mobile_padding_bottom": 56,
+        "desktop_padding_top": 16,
+        "desktop_padding_bottom": 56,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39"
+      }
+    },
     "related-products": {
       "type": "related-products",
       "disabled": true,
@@ -1551,6 +1608,7 @@
     "main",
     "horizontal_ticker_8zfNRq",
     "multicolumn_DxJPtP",
+    "horizontal_ticker_9aYEgq",
     "related-products",
     "8beb6911-28c6-482c-976a-e5421ad3e8df",
     "section_divider_x7kFDi",
