@@ -323,7 +323,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "Ingrédients naturels",
-            "heading_size": "medium",
+            "heading_size": "large",
             "icon": "",
             "filled_icon": false,
             "collapse_icon": "carret",
@@ -339,7 +339,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "Est-ce adapté pour moi ?",
-            "heading_size": "medium",
+            "heading_size": "large",
             "icon": "",
             "filled_icon": false,
             "collapse_icon": "carret",
@@ -355,7 +355,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "Nos certifications",
-            "heading_size": "medium",
+            "heading_size": "large",
             "icon": "",
             "filled_icon": false,
             "collapse_icon": "carret",
@@ -371,7 +371,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "Comment les utiliser ?",
-            "heading_size": "medium",
+            "heading_size": "large",
             "icon": "",
             "filled_icon": false,
             "collapse_icon": "carret",
@@ -387,7 +387,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "Livraison & Garantie",
-            "heading_size": "medium",
+            "heading_size": "large",
             "icon": "",
             "filled_icon": false,
             "collapse_icon": "carret",
