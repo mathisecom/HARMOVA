@@ -20,7 +20,7 @@
             "bg_star_color": "#c8c8c8",
             "star_symbol_color": "#ffffff",
             "label": "<strong>4,8/5</strong> | +1,139 avis",
-            "size": 12,
+            "size": 13,
             "scroll_id": ""
           }
         },
@@ -42,8 +42,8 @@
         "button_ctak93": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
+            "button_label": "PROFITEZ DE L’OFFRE",
+            "button_link": "shopify://products/gummies-equilibre-intime",
             "button_style_secondary": false
           }
         }
