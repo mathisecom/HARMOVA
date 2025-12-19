@@ -844,6 +844,88 @@
         "desktop_padding_bottom": 36
       }
     },
+    "image_slider_p7XFcp": {
+      "type": "image-slider",
+      "blocks": {
+        "image_slide_FP3EhP": {
+          "type": "image_slide",
+          "settings": {
+            "image": "shopify://shop_images/Harmova_-_Statiques-5.webp",
+            "link": "",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "image_slide_nUUgiJ": {
+          "type": "image_slide",
+          "settings": {
+            "image": "shopify://shop_images/Harmova_-_Statiques-6.webp",
+            "link": "",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "image_slide_gJPCbT": {
+          "type": "image_slide",
+          "settings": {
+            "image": "shopify://shop_images/Harmova_-_Statiques-7_c36ab1b3-3fe2-4c8c-b1cb-de290be8817d.webp",
+            "link": "",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        }
+      },
+      "block_order": [
+        "image_slide_FP3EhP",
+        "image_slide_nUUgiJ",
+        "image_slide_gJPCbT"
+      ],
+      "name": "Image/Video Slider",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "Image/Video slider",
+        "title_highlight_color": "#6D388B",
+        "heading_size": "h1",
+        "color_scheme": "background-1",
+        "type": "slide",
+        "drag": "enabled",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "center_mode": false,
+        "arrows_color_scheme": "inverse",
+        "transparent_arrows": false,
+        "dots_color_scheme": "inverse",
+        "desktop_page_width": "normal",
+        "desktop_border_radius": 0,
+        "slides_desktop": 3,
+        "per_move_desktop": 1,
+        "desktop_spacing": 28,
+        "desktop_side_padding": 0,
+        "desktop_padding_calc": true,
+        "desktop_adaptive_height": false,
+        "desktop_dots_position": "hidden",
+        "desktop_arrows_position": "hidden",
+        "mobile_full_page": false,
+        "mobile_border_radius": 0,
+        "slides_mobile": 2,
+        "per_move_mobile": 1,
+        "mobile_spacing": 12,
+        "mobile_side_padding": 0,
+        "mobile_padding_calc": true,
+        "mobile_adaptive_height": false,
+        "mobile_dots_position": "hidden",
+        "mobile_arrows_position": "sides",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#121212"
+      }
+    },
     "rich_text_pULWkr": {
       "type": "rich-text",
       "blocks": {
@@ -1310,6 +1392,7 @@
     "icon_bar_aXRANi",
     "section_divider_hfxVKe",
     "featured_product_k9AKTg",
+    "image_slider_p7XFcp",
     "rich_text_pULWkr",
     "horizontal_ticker_idJTgq",
     "comparison_table_jUY7wd",
