@@ -449,6 +449,21 @@
             "margin_bottom": 15
           }
         },
+        "trustpilot_stars_mtEiA4": {
+          "type": "trustpilot_stars",
+          "settings": {
+            "rating": 4.7,
+            "star_color": "#00b67a",
+            "bg_star_color": "#c8c8c8",
+            "star_symbol_color": "#ffffff",
+            "label": "(xxxx Reviews)",
+            "size": 16,
+            "alignment": "flex-start",
+            "scroll_id": "",
+            "margin_top": 6,
+            "margin_bottom": 15
+          }
+        },
         "text_BBGVAj": {
           "type": "text",
           "settings": {
@@ -758,6 +773,7 @@
       "block_order": [
         "text_JUwwGx",
         "title_k7mgpP",
+        "trustpilot_stars_mtEiA4",
         "text_BBGVAj",
         "price_RqENL4",
         "kaching_bundles_app_block_BkTX3n",
