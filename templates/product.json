@@ -798,6 +798,7 @@
       "blocks": {
         "reviews_YVywpH": {
           "type": "reviews",
+          "disabled": true,
           "settings": {
             "color_scheme": "accent-1",
             "show_custom_bg": true,
@@ -811,9 +812,9 @@
             "stars_translate": 0,
             "checkmark_color": "#6D388B",
             "checkmark_icon_color": "#FFFFFF",
-            "author_1": "<em>Author</em> [stars]",
+            "author_1": "<em>Flavie</em> [stars]",
             "image_1": "shopify://shop_images/harmova-2-8_17b9d799-65ba-4e5b-a007-d691583cf8d5.webp",
-            "text_1": "<p>Share positive thoughts and feedback from your customer.</p>"
+            "text_1": "<p>J'ai eu des vaginoses pendant des années et j'ai tout testé... Après 1 mois avec ces gummies, je ne me suis jamais sentie aussi bien que maintenant, j'ai vraiment l'impression d'avoir trouvé une VRAIE solution</p>"
           }
         },
         "reviews_A94W4g": {
@@ -831,9 +832,9 @@
             "stars_translate": 0,
             "checkmark_color": "#6D388B",
             "checkmark_icon_color": "#FFFFFF",
-            "author_1": "<em>Author</em> [stars]",
+            "author_1": "<em>Célia</em> [stars]",
             "image_1": "shopify://shop_images/Gummy_with_Face.webp",
-            "text_1": "<p>Share positive thoughts and feedback from your customer.</p>"
+            "text_1": "<p>Je souffrais de sécheresse et d’irritations depuis des années… Après 3 semaines avec ces gummies, tout a changé ! Je me sens enfin normale et en confiance.</p>"
           }
         },
         "reviews_8UUnCc": {
@@ -851,9 +852,9 @@
             "stars_translate": 0,
             "checkmark_color": "#6D388B",
             "checkmark_icon_color": "#FFFFFF",
-            "author_1": "<em>Author</em> [stars]",
+            "author_1": "<em>Léonie</em> [stars]",
             "image_1": "shopify://shop_images/Untitled_Design_1024x1024_5edc1df3-7607-461b-be23-419fd19d1d62.webp",
-            "text_1": "<p>Share positive thoughts and feedback from your customer.</p>"
+            "text_1": "<p>Les mauvaises odeurs me gâchaient la vie. Depuis que j’utilise ces probiotiques, je n’ai plus ce problème. C’est un vrai soulagement !</p>"
           }
         },
         "reviews_fbVF8q": {
@@ -871,9 +872,9 @@
             "stars_translate": 0,
             "checkmark_color": "#6D388B",
             "checkmark_icon_color": "#FFFFFF",
-            "author_1": "<em>Author</em> [stars]",
+            "author_1": "<em>Anna</em> [stars]",
             "image_1": "shopify://shop_images/IMG_4058_1.webp",
-            "text_1": "<p>Share positive thoughts and feedback from your customer.</p>"
+            "text_1": "<p>Ces gummies ont transformé ma routine. Fini les irritations et l’inconfort, je me sens équilibrée et en meilleure santé.</p>"
           }
         },
         "reviews_cLAqQ3": {
@@ -891,9 +892,9 @@
             "stars_translate": 0,
             "checkmark_color": "#6D388B",
             "checkmark_icon_color": "#FFFFFF",
-            "author_1": "<em>Author</em> [stars]",
+            "author_1": "<em>Any</em> [stars]",
             "image_1": "shopify://shop_images/IMG_4059.webp",
-            "text_1": "<p>Share positive thoughts and feedback from your customer.</p>"
+            "text_1": "<p>Après des années de galère avec des infections répétitives, j’ai enfin trouvé un produit qui fonctionne. Ces gummies sont devenus indispensables pour moi !</p>"
           }
         }
       },
