@@ -887,8 +887,8 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "title": "Image/Video slider",
-        "title_highlight_color": "#6D388B",
+        "title": "Best Seller <strong>#Tiktok</strong>",
+        "title_highlight_color": "#ef5193",
         "heading_size": "h1",
         "color_scheme": "background-1",
         "type": "slide",
@@ -1031,7 +1031,7 @@
       "name": "Horizontal Ticker",
       "settings": {
         "visibility": "always-display",
-        "speed": 3,
+        "speed": 2,
         "direction": "normal",
         "stop_on_hover": false,
         "mobile_spacing": 60,
