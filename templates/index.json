@@ -655,6 +655,12 @@
             "margin_bottom": 24
           }
         },
+        "custom_liquid_aPrMGB": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": ""
+          }
+        },
         "collapsible_tab_gCDb4Y": {
           "type": "collapsible_tab",
           "settings": {
@@ -758,6 +764,7 @@
         "variant_picker_b8HAtr",
         "quantity_selector_kqARYJ",
         "buy_buttons_QqYtqz",
+        "custom_liquid_aPrMGB",
         "collapsible_tab_gCDb4Y",
         "collapsible_tab_4wD9iB",
         "collapsible_tab_WTkyqw",
