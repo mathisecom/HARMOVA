@@ -855,17 +855,59 @@
             "image_1": "shopify://shop_images/Untitled_Design_1024x1024_5edc1df3-7607-461b-be23-419fd19d1d62.webp",
             "text_1": "<p>Share positive thoughts and feedback from your customer.</p>"
           }
+        },
+        "reviews_fbVF8q": {
+          "type": "reviews",
+          "settings": {
+            "color_scheme": "accent-1",
+            "show_custom_bg": true,
+            "custom_bg_color": "#ef5193",
+            "corner_radius": 12,
+            "border_width": 0,
+            "border_color": "#B7B7B7",
+            "avatar_alignment": "top",
+            "avatar_corner_radius": 40,
+            "star_color": "#ffcc00",
+            "stars_translate": 0,
+            "checkmark_color": "#6D388B",
+            "checkmark_icon_color": "#FFFFFF",
+            "author_1": "<em>Author</em> [stars]",
+            "image_1": "shopify://shop_images/IMG_4058_1.webp",
+            "text_1": "<p>Share positive thoughts and feedback from your customer.</p>"
+          }
+        },
+        "reviews_cLAqQ3": {
+          "type": "reviews",
+          "settings": {
+            "color_scheme": "accent-1",
+            "show_custom_bg": true,
+            "custom_bg_color": "#ef5193",
+            "corner_radius": 12,
+            "border_width": 0,
+            "border_color": "#B7B7B7",
+            "avatar_alignment": "top",
+            "avatar_corner_radius": 40,
+            "star_color": "#ffcc00",
+            "stars_translate": 0,
+            "checkmark_color": "#6D388B",
+            "checkmark_icon_color": "#FFFFFF",
+            "author_1": "<em>Author</em> [stars]",
+            "image_1": "shopify://shop_images/IMG_4059.webp",
+            "text_1": "<p>Share positive thoughts and feedback from your customer.</p>"
+          }
         }
       },
       "block_order": [
         "reviews_YVywpH",
         "reviews_A94W4g",
-        "reviews_8UUnCc"
+        "reviews_8UUnCc",
+        "reviews_fbVF8q",
+        "reviews_cLAqQ3"
       ],
       "name": "Horizontal Ticker",
       "settings": {
         "visibility": "always-display",
-        "speed": 2,
+        "speed": 1.5,
         "direction": "normal",
         "stop_on_hover": false,
         "mobile_spacing": 60,
@@ -886,7 +928,7 @@
         "mobile_padding_top": 12,
         "mobile_padding_bottom": 56,
         "desktop_padding_top": 16,
-        "desktop_padding_bottom": 56,
+        "desktop_padding_bottom": 40,
         "custom_colors_background": "#FFFFFF",
         "custom_gradient_background": "",
         "custom_colors_text": "#2E2A39"
