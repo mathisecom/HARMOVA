@@ -249,6 +249,12 @@
             "margin_bottom": 24
           }
         },
+        "custom_liquid_kEMKyX": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": ""
+          }
+        },
         "e7a28cbe-03cb-4c9d-a2c4-0e3e76ffb3e5": {
           "type": "sticky_atc",
           "disabled": true,
@@ -403,6 +409,7 @@
         "5fcc0428-e768-4cb7-bea3-eb0274198dd1",
         "04ba004e-2f54-4936-8b1c-8bcadf6573f6",
         "buy_buttons",
+        "custom_liquid_kEMKyX",
         "e7a28cbe-03cb-4c9d-a2c4-0e3e76ffb3e5",
         "de158e68-5d0d-4819-a625-e2dabdff87d1",
         "collapsible_tab_aAeDmV",
