@@ -841,10 +841,52 @@
             "image_1": "shopify://shop_images/harmova-2-8_17b9d799-65ba-4e5b-a007-d691583cf8d5.webp",
             "text_1": "<p>Share positive thoughts and feedback from your customer.</p>"
           }
+        },
+        "reviews_cgbJmQ": {
+          "type": "reviews",
+          "settings": {
+            "color_scheme": "accent-1",
+            "show_custom_bg": false,
+            "custom_bg_color": "#ef5193",
+            "corner_radius": 12,
+            "border_width": 0,
+            "border_color": "#B7B7B7",
+            "avatar_alignment": "top",
+            "avatar_corner_radius": 40,
+            "star_color": "#ffcc00",
+            "stars_translate": 0,
+            "checkmark_color": "#6D388B",
+            "checkmark_icon_color": "#FFFFFF",
+            "author_1": "<em>Author</em> [stars]",
+            "image_1": "shopify://shop_images/60_gummies_30_jours-24_b03495bf-6d5f-4d9a-b06d-f5b2d1615b9e.webp",
+            "text_1": "<p>Share positive thoughts and feedback from your customer.</p>"
+          }
+        },
+        "reviews_JjXWhE": {
+          "type": "reviews",
+          "settings": {
+            "color_scheme": "accent-1",
+            "show_custom_bg": false,
+            "custom_bg_color": "#ef5193",
+            "corner_radius": 12,
+            "border_width": 0,
+            "border_color": "#B7B7B7",
+            "avatar_alignment": "top",
+            "avatar_corner_radius": 40,
+            "star_color": "#ffcc00",
+            "stars_translate": 0,
+            "checkmark_color": "#6D388B",
+            "checkmark_icon_color": "#FFFFFF",
+            "author_1": "<em>Author</em> [stars]",
+            "image_1": "shopify://shop_images/50.webp",
+            "text_1": "<p>Share positive thoughts and feedback from your customer.</p>"
+          }
         }
       },
       "block_order": [
-        "reviews_i4rXhh"
+        "reviews_i4rXhh",
+        "reviews_cgbJmQ",
+        "reviews_JjXWhE"
       ],
       "name": "Horizontal Ticker",
       "settings": {
