@@ -97,9 +97,9 @@
             "text_1_border_size": 0,
             "text_1_border_color": "#d5b7ff",
             "text_1_offset": -30,
-            "text_1_padding_y": 4,
-            "text_1_padding_x": 14,
-            "text_1_stretch_height": true,
+            "text_1_padding_y": 8,
+            "text_1_padding_x": 10,
+            "text_1_stretch_height": false,
             "text_2_line_1": "",
             "text_2_line_1_size": 14,
             "text_2_line_2": "",
@@ -111,8 +111,8 @@
             "text_2_offset": -16,
             "text_2_padding_y": 4,
             "text_2_padding_x": 8,
-            "text_2_stretch_height": true,
-            "margin_top": 12,
+            "text_2_stretch_height": false,
+            "margin_top": 15,
             "margin_bottom": 9
           }
         },
@@ -582,7 +582,7 @@
         "trust_badge_position": "top-right",
         "trust_badge_size": "medium",
         "mobile_padding_top": 16,
-        "mobile_padding_bottom": 16,
+        "mobile_padding_bottom": 24,
         "desktop_padding_top": 36,
         "desktop_padding_bottom": 36
       }
