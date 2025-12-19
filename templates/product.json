@@ -258,12 +258,12 @@
         "text_ApykjF": {
           "type": "text",
           "settings": {
-            "mobile_text_size": 14,
+            "mobile_text_size": 12,
             "desktop_text_size": 16,
             "alignment": "left",
             "text_color": "#121212",
-            "text_1": "Text with icon",
-            "text_2": "Text with icon",
+            "text_1": "<strong>Livraison Offerte</strong>",
+            "text_2": "<strong>Expédié sous 48 H</strong>",
             "text_3": "",
             "icon_scale": 120,
             "icon_color": "#121212",
