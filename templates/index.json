@@ -27,15 +27,15 @@
         "heading_Rp4HVF": {
           "type": "heading",
           "settings": {
-            "title": "Image with text",
-            "title_highlight_color": "#6D388B",
+            "title": "Prenez soin de votre <em><strong>santé vaginale</strong></em>",
+            "title_highlight_color": "#ef5193",
             "heading_size": "h1"
           }
         },
         "text_bE4pRT": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>Découvrez <strong>Harmova</strong>, un mélange naturel de probiotiques conçu pour éliminer les odeurs, la sécheresse et les irritations.</p>",
             "text_style": "body"
           }
         },
