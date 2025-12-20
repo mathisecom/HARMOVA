@@ -371,7 +371,7 @@
         "stretch_cards": false,
         "stretched_cards_content_alignment": "center",
         "image_width": "full",
-        "image_ratio": "adapt",
+        "image_ratio": "portrait",
         "media_position": "top",
         "column_alignment": "center",
         "desktop_heading_size": 24,
