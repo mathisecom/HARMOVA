@@ -325,7 +325,7 @@
             "settings": {
               "goal_type": "subtotal",
               "goal": 39,
-              "progress_message": "Dépensez [montant] de plus pour bénéficier de la livraison GRATUITE !",
+              "progress_message": "Dépensez [amount] de plus pour bénéficier de la livraison GRATUITE !",
               "success_message": "Félicitations ! Vous bénéficiez de la livraison GRATUITE !",
               "icon": "local_shipping",
               "icon_filled": false,
